@@ -1,0 +1,46 @@
+vendor_name,vendor_id,gl_account,gl_account_name,vendor_type,budget_ytd_spread,gl_actual_ytd,liability_prior_year_remaining,owner
+Northwind Consulting,V1001,60200,Consulting Fees,Consulting,135000.00,142000.00,0.00,Dana Whitlock
+Mossgate Software Licensing,V1015,61100,Software Subscriptions,Software,45000.00,40000.00,0.00,Marcus Feld
+Mossgate Software Licensing,V1015,65300,Training,Training,9000.00,6000.00,0.00,Marcus Feld
+Blue Harbor Insurance,V1002,63100,Insurance,Insurance,29999.97,8000.00,0.00,Dana Whitlock
+Tallreed Cloud Hosting,V1005,61200,Cloud Hosting,Hosting,72000.00,56000.00,0.00,Marcus Feld
+Starfinch Analytics,V1022,64100,Marketing Services,Marketing,36000.00,32000.00,0.00,Priya Ostrander
+Junebrook Utilities,V1011,62200,Utilities,Utilities,27000.00,24000.00,0.00,Lena Okafor
+Quillfeather Translation,V1007,60100,Professional Services,Professional services,13500.00,5400.00,0.00,Priya Ostrander
+Granite Hollow Property Mgmt,V1027,62300,Rent & Parking,Rent,90000.00,98000.00,25000.00,Lena Okafor
+Oakmere Audit Advisory,V1032,60100,Professional Services,Audit,45000.00,42000.00,4000.00,Dana Whitlock
+Bellwort Wellness Programs,V1029,63300,Benefits Administration,Benefits,18000.00,23000.00,0.00,Tomas Reyhill
+Willowmere Coffee Service,V1035,65200,Office Supplies,Office,10800.00,8800.00,0.00,Tomas Reyhill
+Cobaltbay Printing,V1019,64300,Printing,Printing,22500.00,17500.00,0.00,Priya Ostrander
+Copperwren Facilities,V1003,62100,Facilities Services,Facilities,90000.00,89999.98,0.00,Lena Okafor
+Hollowpine Equipment Rental,V1023,62100,Facilities Services,Equipment,22500.00,28000.00,0.00,Lena Okafor
+Marigold Lane Design,V1031,64100,Marketing Services,Design,7500.00,6000.00,0.00,Priya Ostrander
+Cinderwick Telecom,V1014,61300,Telecom,Telecom,36000.00,30450.00,0.00,Marcus Feld
+Driftwood Travel Desk,V1016,65100,Travel,Travel,18000.00,16000.00,0.00,Tomas Reyhill
+Fernmoss Event Services,V1030,64200,Events,Events,27000.00,9000.00,0.00,Priya Ostrander
+Rivetstone HVAC,V1036,62100,Facilities Services,HVAC,27000.00,27000.00,0.00,Lena Okafor
+Pebblecreek Janitorial,V1013,62100,Facilities Services,Janitorial,34200.00,26600.00,0.00,Lena Okafor
+Sunpeg Parking Services,V1033,62300,Rent & Parking,Parking,18000.00,15000.00,0.00,Lena Okafor
+Hearthvault Records Storage,V1038,62100,Facilities Services,Storage,6750.00,0.00,0.00,Dana Whitlock
+Ravenquill Courier,V1028,65200,Office Supplies,Courier,9000.00,12400.00,0.00,Tomas Reyhill
+Orchard Lane Catering,V1021,64200,Events,Catering,22500.00,18900.00,0.00,Tomas Reyhill
+Larkspur Recruiting,V1018,63200,Recruiting,Recruiting,54000.00,48000.00,0.00,Tomas Reyhill
+Meadowlark Staffing,V1004,60100,Professional Services,Staffing,180000.00,136000.00,0.00,Marcus Feld
+Foxglove Marketing Studio,V1012,64100,Marketing Services,Marketing,45000.00,70000.00,0.00,Priya Ostrander
+Lanternfish Data Labs,V1010,61100,Software Subscriptions,Software,225000.00,180000.00,0.00,Marcus Feld
+Silverfen Training Co,V1025,65300,Training,Training,18000.00,20000.00,0.00,
+Amberfield Research Panel,V1026,60100,Professional Services,Research,22500.00,15000.00,0.00,Priya Ostrander
+Ironfern Security Services,V1006,62100,Facilities Services,Facilities Services,49650.03,42114.27,0.00,Lena Okafor
+Saltmarsh Logistics,V1008,60100,Professional Services,Professional Services,31200.03,24494.48,0.00,Tomas Reyhill
+Brambleway Office Supply,V1009,65200,Office Supplies,Office Supplies,9074.97,7283.22,0.00,Lena Okafor
+Thistlewick Benefits Admin,V1017,63300,Benefits Administration,Benefits Administration,24824.97,20667.34,0.00,Tomas Reyhill
+Wrenfield Payroll Services,V1020,63300,Benefits Administration,Benefits Administration,41474.97,32736.60,0.00,Dana Whitlock
+Kettlebrook Engineering,V1024,60100,Professional Services,Professional Services,74700.00,60999.01,0.00,Lena Okafor
+Tidepool Recycling,V1034,62100,Facilities Services,Facilities Services,11774.97,10322.65,0.00,Lena Okafor
+Gildenrow Software,V1042,61100,Software Subscriptions,Software Subscriptions,33975.00,28181.95,0.00,Lena Okafor
+Corvid Lane Data,V1043,61100,Software Subscriptions,Software Subscriptions,22650.03,17280.59,0.00,
+Sablewing Couriers,V1044,65200,Office Supplies,Office Supplies,6900.03,5584.93,0.00,Tomas Reyhill
+Duskmeadow Print Lab,V1045,64300,Printing,Printing,15975.00,12806.03,0.00,Lena Okafor
+Hazelnook Staffing,V1046,60100,Professional Services,Professional Services,60000.03,50322.41,0.00,Tomas Reyhill
+Kestrelmoor Consulting,V1047,60200,Consulting Fees,Consulting Fees,82199.97,72672.56,0.00,Priya Ostrander
+Kettlebrook Engineering,V1024,60200,Consulting Fees,Consulting Fees,25800.03,20220.25,0.00,Priya Ostrander

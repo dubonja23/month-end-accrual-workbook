@@ -1,0 +1,117 @@
+# Accrual rules for Sample Co. (all vendors and people are invented sample data).
+# Vendor-specific exceptions live here as data. The engine never hard-codes a vendor.
+
+company: Sample Co.
+user: M. Ellery            # single local user; ACCRUAL_USER env var overrides
+current_period: 2026-09    # the open month (manual adds are allowed only here)
+
+scope:
+  journals: [APJ, UNB]     # AP bills and unbilled receipts only
+  corporate_card_vendor_ids: [V9001]
+  expense_accounts: [[60000, 65999]]
+  excluded_accounts: [60510, 60520]   # commission accounts
+  prepaid_accounts: [[13100, 13101]]
+  capex_accounts: [[16000, 16010]]
+  removed_documents:
+    - INV-CW-0099          # duplicate Copperwren bill, voided in the ERP after cutoff
+
+legal:
+  vendor_ids: [V2001, V2002, V2003]
+  accounts: [61500]
+  default_gl: 61500
+  add_vendor_defaults: {gl: 61500, item: I-LEGAL, dept: D100, location: L10, customer: "", project: ""}
+
+service_rules:
+  - vendor_id: V1011       # Junebrook Utilities posts August usage in early September without dates
+    accounts: [62200]
+    posting_from: 2026-09-01
+    posting_to: 2026-09-10
+    service_month: 2026-08
+    source: Service rule (utility bills post the month after usage)
+    basis: Confirmed
+
+rollups:
+  account:
+    - {vendor_id: V1005, from_account: 61100, to_account: 61200}    # Tallreed hosting add-ons coded to software
+  vendor:
+    - {from_vendor_id: V1037, to_vendor_id: V1022, gl_account: 64100} # Mistberry acquired by Starfinch
+
+roster:
+  removed_lines:
+    - {vendor_id: V1019, gl_account: 64300}  # Cobaltbay print contract ended in August
+
+budget:
+  overrides:
+    - {vendor_id: V1023, gl_account: 62100, annual: 45000, note: "Q3 reforecast: added scissor lifts"}
+  excluded_lines:
+    - {vendor_id: V1031, gl_account: 64100, note: "Budget moved to agency retainer; use roster spread"}
+
+prior_year_liability:
+  - {vendor_id: V1027, gl_account: 62300, opening: 25000}
+
+accrual_rules:
+  - {vendor_id: V1035, gl_account: 65200, label: "Received monthly via receipts"}
+
+standing:
+  baseline_month: 2026-08
+  generic_paid_through: true
+  max_service_span_days: 100
+  thresholds:
+    budget_change_pct: 0.20
+    budget_change_abs: 5000
+    spend_change_pct: 0.50
+    spend_change_abs: 5000
+    paid_through_removal_min: 10000
+    term_ending_lookahead_months: 1
+  rules:
+    - {vendor_id: V1014, gl_account: 61300, type: zero, reason: billed_in_full, billed_through: 2026-12-31,
+       note: "Annual telecom contract billed in January", baseline: {annual_budget: 48000, monthly_spend: 2500}}
+    - {vendor_id: V1016, gl_account: 65100, type: zero, reason: receipts,
+       note: "Travel desk posts through receipts", baseline: {annual_budget: 24000, monthly_spend: 2000}}
+    - {vendor_id: V1030, gl_account: 64200, type: zero, reason: not_used,
+       note: "Event series cancelled after Q1", baseline: {annual_budget: 36000, monthly_spend: 1000}}
+    - {vendor_id: V1036, gl_account: 62100, type: zero, reason: billed_in_full, billed_through: 2026-10-31,
+       note: "HVAC service contract billed up front", baseline: {annual_budget: 36000, monthly_spend: 3000}}
+    - {vendor_id: V1013, gl_account: 62100, type: unbilled, rate: 3800, granularity: monthly,
+       note: "Janitorial billed monthly in arrears", baseline: {annual_budget: 45600, monthly_spend: 3800}}
+    - {vendor_id: V1033, gl_account: 62300, type: unbilled, rate: 2000, granularity: half_month,
+       note: "Parking billed semi-monthly", baseline: {annual_budget: 24000, monthly_spend: 2000}}
+    - {vendor_id: V1038, gl_account: 62100, type: unbilled, rate: 750, granularity: monthly,
+       note: "Records storage; invoices irregular", baseline: {annual_budget: 9000, monthly_spend: 750}}
+    - {vendor_id: V1028, gl_account: 65200, type: avg_less_billed,
+       note: "Courier volume varies", baseline: {annual_budget: 12000, monthly_spend: 1500}}
+    - {vendor_id: V1021, gl_account: 64200, type: rate_unless_billed, rate: 2500,
+       note: "Catering for monthly all-hands", baseline: {annual_budget: 30000, monthly_spend: 2100}}
+    - {vendor_id: V1018, gl_account: 63200, type: rate_unless_billed, rate: 6000,
+       note: "Recruiting retainer", baseline: {annual_budget: 72000, monthly_spend: 6000}}
+    - {vendor_id: V1004, gl_account: 60100, type: budget,
+       note: "Staffing tracks budget", baseline: {annual_budget: 180000, monthly_spend: 15000}}
+    - {vendor_id: V1012, gl_account: 64100, type: budget,
+       note: "Agency retainer", baseline: {annual_budget: 60000, monthly_spend: 5000}}
+  carried_manual_adds:
+    - {vendor: Pinwheel Shuttle Co, vendor_id: V1040, gl_account: 65100, gl_account_name: Travel,
+       type: fixed, amount: 1800, dept: D500, location: L10, item: I-SVC, owner: Tomas Reyhill,
+       explanation: "Employee shuttle; invoices arrive quarterly"}
+
+capex:
+  accrual_account: 16005
+  dept: D700
+  customer: C-INT
+  item: I-CAPEX
+
+je:
+  journal: GJ
+  accrued_expenses_account: 20500
+  reference_prefix: ACCR
+  dept_splits:
+    - vendor_id: V1003
+      gl_account: 62100
+      shares:
+        - {dept: D700, share: 0.50}
+        - {dept: D200, share: 0.25}
+        - {dept: D500, share: 0.25}
+
+mom:
+  large_swing_abs: 10000
+  large_swing_pct: 0.25
+  no_change_tolerance: 1.00

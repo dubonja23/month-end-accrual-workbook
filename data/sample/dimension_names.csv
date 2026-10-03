@@ -1,0 +1,111 @@
+dim_type,id,name
+account,13100,Prepaid Expenses
+account,13101,Prepaid Software
+account,16000,CIP - Buildouts
+account,16005,Capex Accrual Clearing
+account,16010,Furniture & Equipment
+account,20500,Accrued Expenses
+account,60100,Professional Services
+account,60200,Consulting Fees
+account,60510,Sales Commissions
+account,60520,Partner Commissions
+account,61100,Software Subscriptions
+account,61200,Cloud Hosting
+account,61300,Telecom
+account,61500,Legal Fees
+account,61600,Legal - Litigation
+account,62100,Facilities Services
+account,62200,Utilities
+account,62300,Rent & Parking
+account,63100,Insurance
+account,63200,Recruiting
+account,63300,Benefits Administration
+account,64100,Marketing Services
+account,64200,Events
+account,64300,Printing
+account,65100,Travel
+account,65200,Office Supplies
+account,65300,Training
+account,66100,Depreciation
+account,70100,Interest Expense
+dept,D100,Finance
+dept,D200,Engineering
+dept,D300,Sales
+dept,D400,Marketing
+dept,D500,Operations
+dept,D600,People
+dept,D700,Facilities
+location,L10,Main Office
+location,L20,West Campus
+location,L30,Remote
+location,L40,Harbor Street Studio
+item,I-SVC,Services
+item,I-SW,Software
+item,I-FAC,Facilities
+item,I-LEGAL,Legal Services
+item,I-CAPEX,Capital Project
+item,I-MKT,Marketing
+item,I-INS,Insurance
+item,I-TRV,Travel
+project,P-1001,Harbor Street Fit-Out
+project,P-1002,West Campus Lab Expansion
+project,P-1003,Main Office Phone Booths
+project,P-L01,Matter - Halcyon Ridge contract dispute
+project,P-L02,Matter - Ferngate lease review
+customer,C-INT,Internal
+customer,C-201,Halcyon Ridge Partners
+customer,C-202,Ferngate Holdings
+vendor,V1001,Northwind Consulting
+vendor,V1002,Blue Harbor Insurance
+vendor,V1003,Copperwren Facilities
+vendor,V1004,Meadowlark Staffing
+vendor,V1005,Tallreed Cloud Hosting
+vendor,V1006,Ironfern Security Services
+vendor,V1007,Quillfeather Translation
+vendor,V1008,Saltmarsh Logistics
+vendor,V1009,Brambleway Office Supply
+vendor,V1010,Lanternfish Data Labs
+vendor,V1011,Junebrook Utilities
+vendor,V1012,Foxglove Marketing Studio
+vendor,V1013,Pebblecreek Janitorial
+vendor,V1014,Cinderwick Telecom
+vendor,V1015,Mossgate Software Licensing
+vendor,V1016,Driftwood Travel Desk
+vendor,V1017,Thistlewick Benefits Admin
+vendor,V1018,Larkspur Recruiting
+vendor,V1019,Cobaltbay Printing
+vendor,V1020,Wrenfield Payroll Services
+vendor,V1021,Orchard Lane Catering
+vendor,V1022,Starfinch Analytics
+vendor,V1023,Hollowpine Equipment Rental
+vendor,V1024,Kettlebrook Engineering
+vendor,V1025,Silverfen Training Co
+vendor,V1026,Amberfield Research Panel
+vendor,V1027,Granite Hollow Property Mgmt
+vendor,V1028,Ravenquill Courier
+vendor,V1029,Bellwort Wellness Programs
+vendor,V1030,Fernmoss Event Services
+vendor,V1031,Marigold Lane Design
+vendor,V1032,Oakmere Audit Advisory
+vendor,V1033,Sunpeg Parking Services
+vendor,V1034,Tidepool Recycling
+vendor,V1035,Willowmere Coffee Service
+vendor,V1036,Rivetstone HVAC
+vendor,V1037,Mistberry Survey Tools
+vendor,V1038,Hearthvault Records Storage
+vendor,V1039,Kestrel Point Lending
+vendor,V1040,Pinwheel Shuttle Co
+vendor,V1041,Brightlark Referral Partners
+vendor,V1042,Gildenrow Software
+vendor,V1043,Corvid Lane Data
+vendor,V1044,Sablewing Couriers
+vendor,V1045,Duskmeadow Print Lab
+vendor,V1046,Hazelnook Staffing
+vendor,V1047,Kestrelmoor Consulting
+vendor,V2001,Ashgrove & Pell LLP
+vendor,V2002,Brindle Hart Legal
+vendor,V2003,Quarrington Vale LLP
+vendor,V3001,Quarrystep Builders
+vendor,V3002,Lumenvale Electrical
+vendor,V3003,Oakthread Millwork
+vendor,V9001,Corporate Card Program

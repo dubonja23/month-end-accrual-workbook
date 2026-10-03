@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+out/
+data/*.db
+data/*.db-journal
+data/user/
+data/active_dataset.txt

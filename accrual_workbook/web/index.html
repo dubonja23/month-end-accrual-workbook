@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OpEx Accrual Workbook</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%230b2e59'/%3E%3Cpath d='M8 23h16M10 19V12M16 19V9M22 19v-5' stroke='%23b8913a' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>OpEx Accrual Workbook</h1>
+      <div class="period-sub" id="period-sub">Sample Co.</div>
+    </div>
+    <div>
+      <div class="hdr-actions">
+        <div class="field">
+          <label for="period-select">Period</label>
+          <select id="period-select" aria-label="Period"></select>
+        </div>
+        <button class="btn" id="btn-defs" type="button">Tab Definitions</button>
+        <button class="btn" id="btn-overview" type="button">Overview</button>
+      </div>
+      <div class="runinfo" id="runinfo"></div>
+    </div>
+  </header>
+  <nav class="tabbar" id="tabbar" role="tablist"></nav>
+  <div id="lockbar"></div>
+  <main id="main"><div class="loading">Loading…</div></main>
+</div>
+<div id="modal-root"></div>
+<script src="/static/app.js"></script>
+</body>
+</html>

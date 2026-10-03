@@ -1,0 +1,411 @@
+entry_date,gl_account,gl_account_name,vendor_id,vendor_name,department_name,location_name,signed_amount,gl_journal_id,journal_posting_date,service_period_from,service_period_to,service_month,service_date_source,description,document_id
+2026-01-08,62300,Rent & Parking,V1027,Granite Hollow Property Mgmt,Facilities,West Campus,10000.00,APJ,2026-01-08,2025-11-01,2025-11-30,,,Nov 2025 CAM true-up,INV-00080
+2026-01-09,63300,Benefits Administration,V1029,Bellwort Wellness Programs,People,Main Office,5000.00,APJ,2026-01-09,2025-12-01,2025-12-31,,,Dec 2025 program,INV-00093
+2026-01-15,64100,Marketing Services,V1037,Mistberry Survey Tools,Marketing,Remote,500.00,APJ,2026-01-15,2026-01-01,2026-01-31,,,Mistberry Survey Tools invoice,INV-00058
+2026-01-15,61300,Telecom,V1014,Cinderwick Telecom,Engineering,Main Office,30000.00,APJ,2026-01-15,2026-01-01,2026-12-31,,,Annual telecom contract,INV-00138
+2026-01-18,64100,Marketing Services,V1012,Foxglove Marketing Studio,Marketing,Main Office,5000.00,APJ,2026-01-18,2026-01-01,2026-01-31,,,Foxglove Marketing Studio invoice,INV-00202
+2026-01-20,61100,Software Subscriptions,V1015,Mossgate Software Licensing,Engineering,Remote,5000.00,APJ,2026-01-20,2026-01-01,2026-01-31,,,Mossgate Software Licensing invoice,INV-00010
+2026-01-20,62300,Rent & Parking,V1033,Sunpeg Parking Services,Facilities,Main Office,2000.00,APJ,2026-01-20,2026-01-01,2026-01-31,,,Sunpeg Parking Services invoice,INV-00159
+2026-01-20,61100,Software Subscriptions,V1010,Lanternfish Data Labs,Engineering,Remote,20000.00,APJ,2026-01-20,2026-01-01,2026-01-31,,,Lanternfish Data Labs invoice,INV-00212
+2026-01-22,64200,Events,V1021,Orchard Lane Catering,People,Main Office,2100.00,APJ,2026-01-22,2026-01-01,2026-01-31,,,Orchard Lane Catering invoice,INV-00176
+2026-01-24,65300,Training,V1025,Silverfen Training Co,People,Remote,2000.00,APJ,2026-01-24,2026-01-01,2026-01-31,,,Silverfen Training Co invoice,INV-00222
+2026-01-25,60200,Consulting Fees,V1001,Northwind Consulting,Finance,Main Office,16000.00,APJ,2026-01-25,2026-01-01,2026-01-31,,,Northwind Consulting invoice,INV-00001
+2026-01-27,63300,Benefits Administration,V1029,Bellwort Wellness Programs,People,Main Office,2000.00,APJ,2026-01-27,2026-01-01,2026-01-31,,,Bellwort Wellness Programs invoice,INV-00094
+2026-01-31,65200,Office Supplies,V1035,Willowmere Coffee Service,Facilities,Main Office,1100.00,UNB,2026-01-31,,,,,Coffee service receipt,INV-00103
+2026-01-31,65100,Travel,V1016,Driftwood Travel Desk,Sales,Main Office,2000.00,UNB,2026-01-31,,,,,Travel desk receipts Jan 2026,INV-00140
+2026-01-31,65100,Travel,V9001,Corporate Card Program,Finance,Main Office,860.00,CCJ,2026-01-31,,,,,Corporate card statement,INV-00236
+2026-02-01,70100,Interest Expense,V1039,Kestrel Point Lending,Finance,Main Office,4200.00,APJ,2026-02-01,,,,,Loan interest,INV-00247
+2026-02-02,60100,Professional Services,V1007,Quillfeather Translation,Marketing,Remote,1200.00,APJ,2026-02-02,2026-01-01,2026-01-31,,,Translation - field dates,INV-00076
+2026-02-03,13101,Prepaid Software,V1015,Mossgate Software Licensing,Engineering,Remote,24000.00,APJ,2026-02-03,2026-02-01,2027-01-31,,,Annual license renewal,INV-00020
+2026-02-03,62300,Rent & Parking,V1027,Granite Hollow Property Mgmt,Facilities,West Campus,10000.00,APJ,2026-02-03,2026-01-01,2026-01-31,,,Granite Hollow Property Mgmt invoice,INV-00082
+2026-02-03,62100,Facilities Services,V1013,Pebblecreek Janitorial,Facilities,Main Office,3800.00,APJ,2026-02-03,2026-01-01,2026-01-31,,,Pebblecreek Janitorial invoice,INV-00151
+2026-02-04,62100,Facilities Services,V1003,Copperwren Facilities,Facilities,Main Office,9999.99,APJ,2026-02-04,2026-01-01,2026-01-31,,,Copperwren Facilities invoice,INV-00118
+2026-02-04,65200,Office Supplies,V1009,Brambleway Office Supply,Operations,Main Office,896.13,APJ,2026-02-04,,,,,Monthly services,INV-00303
+2026-02-04,63300,Benefits Administration,V1017,Thistlewick Benefits Admin,People,Main Office,2514.15,APJ,2026-02-04,,,,,Services - January 2026,INV-00312
+2026-02-04,61100,Software Subscriptions,V1043,Corvid Lane Data,Engineering,Remote,2064.12,APJ,2026-02-04,2026-01-01,2026-01-31,,,Corvid Lane Data invoice,INV-00357
+2026-02-05,62200,Utilities,V1011,Junebrook Utilities,Facilities,Main Office,3000.00,APJ,2026-02-05,2026-01-01,2026-01-31,,,Junebrook Utilities invoice,INV-00067
+2026-02-05,62100,Facilities Services,V1036,Rivetstone HVAC,Facilities,West Campus,27000.00,APJ,2026-02-05,2026-02-01,2026-10-31,,,Service contract Feb-Oct,INV-00150
+2026-02-05,65200,Office Supplies,V1028,Ravenquill Courier,Operations,Main Office,1500.00,APJ,2026-02-05,2026-01-01,2026-01-31,,,Ravenquill Courier invoice,INV-00167
+2026-02-05,63300,Benefits Administration,V1020,Wrenfield Payroll Services,People,Main Office,4365.55,APJ,2026-02-05,2026-01-01,2026-01-31,,,Wrenfield Payroll Services invoice,INV-00321
+2026-02-06,63100,Insurance,V1002,Blue Harbor Insurance,Finance,Main Office,1000.00,APJ,2026-02-06,2026-01-01,2026-01-31,,,Broker fee,INV-00021
+2026-02-06,61200,Cloud Hosting,V1005,Tallreed Cloud Hosting,Engineering,Remote,7000.00,APJ,2026-02-06,2026-01-01,2026-01-31,,,Tallreed Cloud Hosting invoice,INV-00031
+2026-02-06,61100,Software Subscriptions,V1005,Tallreed Cloud Hosting,Engineering,Remote,1000.00,APJ,2026-02-06,2026-01-01,2026-01-31,,,Tallreed Cloud Hosting invoice,INV-00040
+2026-02-06,62300,Rent & Parking,V1027,Granite Hollow Property Mgmt,Facilities,West Campus,8000.00,APJ,2026-02-06,2025-12-01,2025-12-31,,,Dec 2025 CAM true-up,INV-00081
+2026-02-06,62100,Facilities Services,V1023,Hollowpine Equipment Rental,Facilities,West Campus,3500.00,APJ,2026-02-06,2026-01-01,2026-01-31,,,Hollowpine Equipment Rental invoice,INV-00127
+2026-02-06,61100,Software Subscriptions,V1042,Gildenrow Software,Engineering,Remote,3415.94,APJ,2026-02-06,2026-01-01,2026-01-31,,,Gildenrow Software invoice,INV-00348
+2026-02-07,60100,Professional Services,V1004,Meadowlark Staffing,Operations,Main Office,17000.00,APJ,2026-02-07,2026-01-01,2026-01-31,,,Meadowlark Staffing invoice,INV-00193
+2026-02-07,60100,Professional Services,V1024,Kettlebrook Engineering,Engineering,West Campus,7911.43,APJ,2026-02-07,,,,,Monthly services,INV-00330
+2026-02-08,64100,Marketing Services,V1022,Starfinch Analytics,Marketing,Remote,4000.00,APJ,2026-02-08,2026-01-01,2026-01-31,,,Starfinch Analytics invoice,INV-00049
+2026-02-09,64300,Printing,V1019,Cobaltbay Printing,Marketing,Main Office,2500.00,APJ,2026-02-09,2026-01-01,2026-01-31,,,Cobaltbay Printing invoice,INV-00111
+2026-02-09,65200,Office Supplies,V1044,Sablewing Couriers,Operations,West Campus,740.51,APJ,2026-02-09,2026-01-01,2026-01-31,,,Sablewing Couriers invoice,INV-00366
+2026-02-09,64300,Printing,V1045,Duskmeadow Print Lab,Marketing,Main Office,1620.55,APJ,2026-02-09,2026-01-01,2026-01-31,,,Duskmeadow Print Lab invoice,INV-00375
+2026-02-10,60100,Professional Services,V1032,Oakmere Audit Advisory,Finance,Main Office,12000.00,APJ,2026-02-10,,,,,FY2025 audit fieldwork - Dec 2025,INV-00091
+2026-02-10,63200,Recruiting,V1018,Larkspur Recruiting,People,Main Office,6000.00,APJ,2026-02-10,2026-01-01,2026-01-31,,,Larkspur Recruiting invoice,INV-00185
+2026-02-11,60200,Consulting Fees,V1024,Kettlebrook Engineering,Engineering,West Campus,2267.12,APJ,2026-02-11,,,,,Services - January 2026,INV-00402
+2026-02-15,64100,Marketing Services,V1037,Mistberry Survey Tools,Marketing,Remote,500.00,APJ,2026-02-15,2026-02-01,2026-02-28,,,Mistberry Survey Tools invoice,INV-00059
+2026-02-15,61500,Legal Fees,V2001,Ashgrove & Pell LLP,Finance,Main Office,9500.00,APJ,2026-02-15,2026-01-01,2026-01-31,,,Legal services,INV-00259
+2026-02-15,61500,Legal Fees,V2002,Brindle Hart Legal,Finance,Main Office,3875.00,APJ,2026-02-15,2026-01-01,2026-01-31,,,Legal services,INV-00267
+2026-02-15,61500,Legal Fees,V2003,Quarrington Vale LLP,Finance,Main Office,2250.00,APJ,2026-02-15,2026-01-01,2026-01-31,,,Legal services,INV-00275
+2026-02-18,64100,Marketing Services,V1012,Foxglove Marketing Studio,Marketing,Main Office,5000.00,APJ,2026-02-18,2026-02-01,2026-02-28,,,Foxglove Marketing Studio invoice,INV-00203
+2026-02-19,62100,Facilities Services,V1006,Ironfern Security Services,Facilities,West Campus,5381.82,APJ,2026-02-19,,,,,Services - January 2026,INV-00285
+2026-02-19,62100,Facilities Services,V1034,Tidepool Recycling,Facilities,West Campus,1407.77,APJ,2026-02-19,2026-01-01,2026-01-31,,,Tidepool Recycling invoice,INV-00339
+2026-02-20,61100,Software Subscriptions,V1015,Mossgate Software Licensing,Engineering,Remote,5000.00,APJ,2026-02-20,2026-02-01,2026-02-28,,,Mossgate Software Licensing invoice,INV-00011
+2026-02-20,62300,Rent & Parking,V1033,Sunpeg Parking Services,Facilities,Main Office,2000.00,APJ,2026-02-20,2026-02-01,2026-02-28,,,Sunpeg Parking Services invoice,INV-00160
+2026-02-20,61100,Software Subscriptions,V1010,Lanternfish Data Labs,Engineering,Remote,20000.00,APJ,2026-02-20,2026-02-01,2026-02-28,,,Lanternfish Data Labs invoice,INV-00213
+2026-02-20,60100,Professional Services,V1008,Saltmarsh Logistics,Operations,West Campus,2915.62,APJ,2026-02-20,,,,,Services - January 2026,INV-00294
+2026-02-20,60100,Professional Services,V1046,Hazelnook Staffing,Operations,West Campus,6446.55,APJ,2026-02-20,2026-01-01,2026-01-31,,,Hazelnook Staffing invoice,INV-00384
+2026-02-20,60200,Consulting Fees,V1047,Kestrelmoor Consulting,Finance,Main Office,9281.66,APJ,2026-02-20,2026-01-01,2026-01-31,,,Kestrelmoor Consulting invoice,INV-00393
+2026-02-22,64200,Events,V1021,Orchard Lane Catering,People,Main Office,2100.00,APJ,2026-02-22,2026-02-01,2026-02-28,,,Orchard Lane Catering invoice,INV-00177
+2026-02-24,65300,Training,V1025,Silverfen Training Co,People,Remote,2000.00,APJ,2026-02-24,2026-02-01,2026-02-28,,,Silverfen Training Co invoice,INV-00223
+2026-02-25,60200,Consulting Fees,V1001,Northwind Consulting,Finance,Main Office,16000.00,APJ,2026-02-25,2026-02-01,2026-02-28,,,Northwind Consulting invoice,INV-00002
+2026-02-27,63300,Benefits Administration,V1029,Bellwort Wellness Programs,People,Main Office,2000.00,APJ,2026-02-27,2026-02-01,2026-02-28,,,Bellwort Wellness Programs invoice,INV-00095
+2026-02-28,65200,Office Supplies,V1035,Willowmere Coffee Service,Facilities,Main Office,1100.00,UNB,2026-02-28,,,,,Coffee service receipt,INV-00104
+2026-02-28,65100,Travel,V1016,Driftwood Travel Desk,Sales,Main Office,2000.00,UNB,2026-02-28,,,,,Travel desk receipts Feb 2026,INV-00141
+2026-02-28,65100,Travel,V9001,Corporate Card Program,Finance,Main Office,870.00,CCJ,2026-02-28,,,,,Corporate card statement,INV-00237
+2026-03-01,70100,Interest Expense,V1039,Kestrel Point Lending,Finance,Main Office,4200.00,APJ,2026-03-01,,,,,Loan interest,INV-00248
+2026-03-03,62300,Rent & Parking,V1027,Granite Hollow Property Mgmt,Facilities,West Campus,10000.00,APJ,2026-03-03,2026-02-01,2026-02-28,,,Granite Hollow Property Mgmt invoice,INV-00083
+2026-03-03,62100,Facilities Services,V1013,Pebblecreek Janitorial,Facilities,Main Office,3800.00,APJ,2026-03-03,2026-02-01,2026-02-28,,,Pebblecreek Janitorial invoice,INV-00152
+2026-03-04,62100,Facilities Services,V1003,Copperwren Facilities,Facilities,Main Office,9999.99,APJ,2026-03-04,2026-02-01,2026-02-28,,,Copperwren Facilities invoice,INV-00119
+2026-03-04,65200,Office Supplies,V1044,Sablewing Couriers,Operations,West Campus,730.70,APJ,2026-03-04,2026-02-01,2026-02-28,,,Sablewing Couriers invoice,INV-00367
+2026-03-04,60100,Professional Services,V1046,Hazelnook Staffing,Operations,West Campus,6192.87,APJ,2026-03-04,,,,,Services - February 2026,INV-00385
+2026-03-05,62200,Utilities,V1011,Junebrook Utilities,Facilities,Main Office,3000.00,APJ,2026-03-05,2026-02-01,2026-02-28,,,Junebrook Utilities invoice,INV-00068
+2026-03-05,65200,Office Supplies,V1028,Ravenquill Courier,Operations,Main Office,1500.00,APJ,2026-03-05,2026-02-01,2026-02-28,,,Ravenquill Courier invoice,INV-00168
+2026-03-05,60100,Professional Services,V1024,Kettlebrook Engineering,Engineering,West Campus,7207.71,APJ,2026-03-05,2026-02-01,2026-02-28,,,Kettlebrook Engineering invoice,INV-00331
+2026-03-05,64300,Printing,V1045,Duskmeadow Print Lab,Marketing,Main Office,1632.42,APJ,2026-03-05,,,,,Monthly services,INV-00376
+2026-03-05,60200,Consulting Fees,V1047,Kestrelmoor Consulting,Finance,Main Office,9015.35,APJ,2026-03-05,2026-02-01,2026-02-28,,,Kestrelmoor Consulting invoice,INV-00394
+2026-03-06,63100,Insurance,V1002,Blue Harbor Insurance,Finance,Main Office,1000.00,APJ,2026-03-06,2026-02-01,2026-02-28,,,Broker fee,INV-00022
+2026-03-06,61200,Cloud Hosting,V1005,Tallreed Cloud Hosting,Engineering,Remote,7000.00,APJ,2026-03-06,2026-02-01,2026-02-28,,,Tallreed Cloud Hosting invoice,INV-00032
+2026-03-06,61100,Software Subscriptions,V1005,Tallreed Cloud Hosting,Engineering,Remote,1000.00,APJ,2026-03-06,2026-02-01,2026-02-28,,,Tallreed Cloud Hosting invoice,INV-00041
+2026-03-06,62100,Facilities Services,V1023,Hollowpine Equipment Rental,Facilities,West Campus,3500.00,APJ,2026-03-06,2026-02-01,2026-02-28,,,Hollowpine Equipment Rental invoice,INV-00128
+2026-03-06,62100,Facilities Services,V1034,Tidepool Recycling,Facilities,West Campus,1332.38,APJ,2026-03-06,,,,,Monthly services,INV-00340
+2026-03-06,61100,Software Subscriptions,V1042,Gildenrow Software,Engineering,Remote,3711.56,APJ,2026-03-06,2026-02-01,2026-02-28,,,Gildenrow Software invoice,INV-00349
+2026-03-07,60100,Professional Services,V1004,Meadowlark Staffing,Operations,Main Office,17000.00,APJ,2026-03-07,2026-02-01,2026-02-28,,,Meadowlark Staffing invoice,INV-00194
+2026-03-08,64100,Marketing Services,V1022,Starfinch Analytics,Marketing,Remote,4000.00,APJ,2026-03-08,2026-02-01,2026-02-28,,,Starfinch Analytics invoice,INV-00050
+2026-03-09,64300,Printing,V1019,Cobaltbay Printing,Marketing,Main Office,2500.00,APJ,2026-03-09,2026-02-01,2026-02-28,,,Cobaltbay Printing invoice,INV-00112
+2026-03-10,63200,Recruiting,V1018,Larkspur Recruiting,People,Main Office,6000.00,APJ,2026-03-10,2026-02-01,2026-02-28,,,Larkspur Recruiting invoice,INV-00186
+2026-03-11,64100,Marketing Services,V1031,Marigold Lane Design,Marketing,Main Office,2000.00,APJ,2026-03-11,2026-02-01,2026-02-28,,,Marigold Lane Design invoice,INV-00135
+2026-03-12,64200,Events,V1030,Fernmoss Event Services,Marketing,Main Office,4500.00,APJ,2026-03-12,2026-02-01,2026-02-28,,,Fernmoss Event Services invoice,INV-00148
+2026-03-12,65200,Office Supplies,V1009,Brambleway Office Supply,Operations,Main Office,909.22,APJ,2026-03-12,2026-02-01,2026-02-28,,,Brambleway Office Supply invoice,INV-00304
+2026-03-13,63300,Benefits Administration,V1020,Wrenfield Payroll Services,People,Main Office,3717.24,APJ,2026-03-13,2026-02-01,2026-02-28,,,Wrenfield Payroll Services invoice,INV-00322
+2026-03-14,60100,Professional Services,V1026,Amberfield Research Panel,,,5000.00,APJ,2026-03-14,2026-02-01,2026-02-28,,,Research panel,INV-00231
+2026-03-14,60100,Professional Services,V1008,Saltmarsh Logistics,Operations,West Campus,3342.90,APJ,2026-03-14,,,,,Services - February 2026,INV-00295
+2026-03-14,63300,Benefits Administration,V1017,Thistlewick Benefits Admin,People,Main Office,2665.49,APJ,2026-03-14,2026-02-01,2026-02-28,,,Thistlewick Benefits Admin invoice,INV-00313
+2026-03-14,61100,Software Subscriptions,V1043,Corvid Lane Data,Engineering,Remote,2032.90,APJ,2026-03-14,,,,,Services - February 2026,INV-00358
+2026-03-15,64100,Marketing Services,V1037,Mistberry Survey Tools,Marketing,Remote,500.00,APJ,2026-03-15,2026-03-01,2026-03-31,,,Mistberry Survey Tools invoice,INV-00060
+2026-03-15,61500,Legal Fees,V2001,Ashgrove & Pell LLP,Finance,Main Office,9500.00,APJ,2026-03-15,2026-02-01,2026-02-28,,,Legal services,INV-00260
+2026-03-15,61500,Legal Fees,V2002,Brindle Hart Legal,Finance,Main Office,3875.00,APJ,2026-03-15,2026-02-01,2026-02-28,,,Legal services,INV-00268
+2026-03-15,61500,Legal Fees,V2003,Quarrington Vale LLP,Finance,Main Office,2250.00,APJ,2026-03-15,2026-02-01,2026-02-28,,,Legal services,INV-00276
+2026-03-15,60200,Consulting Fees,V1024,Kettlebrook Engineering,Engineering,West Campus,2747.93,APJ,2026-03-15,2026-02-01,2026-02-28,,,Kettlebrook Engineering invoice,INV-00403
+2026-03-16,62100,Facilities Services,V1006,Ironfern Security Services,Facilities,West Campus,5427.98,APJ,2026-03-16,,,,,Services - February 2026,INV-00286
+2026-03-18,64100,Marketing Services,V1012,Foxglove Marketing Studio,Marketing,Main Office,5000.00,APJ,2026-03-18,2026-03-01,2026-03-31,,,Foxglove Marketing Studio invoice,INV-00204
+2026-03-20,61100,Software Subscriptions,V1015,Mossgate Software Licensing,Engineering,Remote,5000.00,APJ,2026-03-20,2026-03-01,2026-03-31,,,Mossgate Software Licensing invoice,INV-00012
+2026-03-20,65300,Training,V1015,Mossgate Software Licensing,Engineering,Remote,3000.00,APJ,2026-03-20,2026-03-01,2026-03-31,,,Mossgate Software Licensing invoice,INV-00018
+2026-03-20,62300,Rent & Parking,V1033,Sunpeg Parking Services,Facilities,Main Office,2000.00,APJ,2026-03-20,2026-03-01,2026-03-31,,,Sunpeg Parking Services invoice,INV-00161
+2026-03-20,61100,Software Subscriptions,V1010,Lanternfish Data Labs,Engineering,Remote,20000.00,APJ,2026-03-20,2026-03-01,2026-03-31,,,Lanternfish Data Labs invoice,INV-00214
+2026-03-22,64200,Events,V1021,Orchard Lane Catering,People,Main Office,2100.00,APJ,2026-03-22,2026-03-01,2026-03-31,,,Orchard Lane Catering invoice,INV-00178
+2026-03-24,65300,Training,V1025,Silverfen Training Co,People,Remote,2000.00,APJ,2026-03-24,2026-03-01,2026-03-31,,,Silverfen Training Co invoice,INV-00224
+2026-03-25,60200,Consulting Fees,V1001,Northwind Consulting,Finance,Main Office,16000.00,APJ,2026-03-25,2026-03-01,2026-03-31,,,Northwind Consulting invoice,INV-00003
+2026-03-27,63300,Benefits Administration,V1029,Bellwort Wellness Programs,People,Main Office,2000.00,APJ,2026-03-27,2026-03-01,2026-03-31,,,Bellwort Wellness Programs invoice,INV-00096
+2026-03-28,60520,Partner Commissions,V1041,Brightlark Referral Partners,Sales,Main Office,7500.00,APJ,2026-03-28,,,,,Partner referral commission,INV-00256
+2026-03-31,65200,Office Supplies,V1035,Willowmere Coffee Service,Facilities,Main Office,1100.00,UNB,2026-03-31,,,,,Coffee service receipt,INV-00105
+2026-03-31,65100,Travel,V1016,Driftwood Travel Desk,Sales,Main Office,2000.00,UNB,2026-03-31,,,,,Travel desk receipts Mar 2026,INV-00142
+2026-03-31,65100,Travel,V9001,Corporate Card Program,Finance,Main Office,880.00,CCJ,2026-03-31,,,,,Corporate card statement,INV-00238
+2026-04-01,70100,Interest Expense,V1039,Kestrel Point Lending,Finance,Main Office,4200.00,APJ,2026-04-01,,,,,Loan interest,INV-00249
+2026-04-03,62300,Rent & Parking,V1027,Granite Hollow Property Mgmt,Facilities,West Campus,10000.00,APJ,2026-04-03,2026-03-01,2026-03-31,,,Granite Hollow Property Mgmt invoice,INV-00084
+2026-04-03,62100,Facilities Services,V1013,Pebblecreek Janitorial,Facilities,Main Office,3800.00,APJ,2026-04-03,2026-03-01,2026-03-31,,,Pebblecreek Janitorial invoice,INV-00153
+2026-04-03,61100,Software Subscriptions,V1042,Gildenrow Software,Engineering,Remote,3427.58,APJ,2026-04-03,,,,,Services - March 2026,INV-00350
+2026-04-04,62100,Facilities Services,V1003,Copperwren Facilities,Facilities,Main Office,10000.00,APJ,2026-04-04,2026-03-01,2026-03-31,,,Copperwren Facilities invoice,INV-00120
+2026-04-05,62200,Utilities,V1011,Junebrook Utilities,Facilities,Main Office,3000.00,APJ,2026-04-05,2026-03-01,2026-03-31,,,Junebrook Utilities invoice,INV-00069
+2026-04-05,65200,Office Supplies,V1028,Ravenquill Courier,Operations,Main Office,1500.00,APJ,2026-04-05,2026-03-01,2026-03-31,,,Ravenquill Courier invoice,INV-00169
+2026-04-05,65200,Office Supplies,V1009,Brambleway Office Supply,Operations,Main Office,941.87,APJ,2026-04-05,,,,,Monthly services,INV-00305
+2026-04-05,63300,Benefits Administration,V1020,Wrenfield Payroll Services,People,Main Office,3976.82,APJ,2026-04-05,2026-03-01,2026-03-31,,,Wrenfield Payroll Services invoice,INV-00323
+2026-04-05,64300,Printing,V1045,Duskmeadow Print Lab,Marketing,Main Office,1521.66,APJ,2026-04-05,,,,,Monthly services,INV-00377
+2026-04-06,63100,Insurance,V1002,Blue Harbor Insurance,Finance,Main Office,1000.00,APJ,2026-04-06,2026-03-01,2026-03-31,,,Broker fee,INV-00023
+2026-04-06,61200,Cloud Hosting,V1005,Tallreed Cloud Hosting,Engineering,Remote,7000.00,APJ,2026-04-06,2026-03-01,2026-03-31,,,Tallreed Cloud Hosting invoice,INV-00033
+2026-04-06,61100,Software Subscriptions,V1005,Tallreed Cloud Hosting,Engineering,Remote,1000.00,APJ,2026-04-06,2026-03-01,2026-03-31,,,Tallreed Cloud Hosting invoice,INV-00042
+2026-04-06,62100,Facilities Services,V1023,Hollowpine Equipment Rental,Facilities,West Campus,3500.00,APJ,2026-04-06,2026-03-01,2026-03-31,,,Hollowpine Equipment Rental invoice,INV-00129
+2026-04-06,63300,Benefits Administration,V1017,Thistlewick Benefits Admin,People,Main Office,2352.04,APJ,2026-04-06,2026-03-01,2026-03-31,,,Thistlewick Benefits Admin invoice,INV-00314
+2026-04-07,60100,Professional Services,V1007,Quillfeather Translation,Marketing,Remote,1500.00,APJ,2026-04-07,,,,,Translation services - March 2026,INV-00077
+2026-04-07,60100,Professional Services,V1004,Meadowlark Staffing,Operations,Main Office,17000.00,APJ,2026-04-07,2026-03-01,2026-03-31,,,Meadowlark Staffing invoice,INV-00195
+2026-04-08,64100,Marketing Services,V1022,Starfinch Analytics,Marketing,Remote,4000.00,APJ,2026-04-08,2026-03-01,2026-03-31,,,Starfinch Analytics invoice,INV-00051
+2026-04-08,65200,Office Supplies,V1044,Sablewing Couriers,Operations,West Campus,657.43,APJ,2026-04-08,,,,,Monthly services,INV-00368
+2026-04-09,64300,Printing,V1019,Cobaltbay Printing,Marketing,Main Office,2500.00,APJ,2026-04-09,2026-03-01,2026-03-31,,,Cobaltbay Printing invoice,INV-00113
+2026-04-09,60200,Consulting Fees,V1024,Kettlebrook Engineering,Engineering,West Campus,2529.29,APJ,2026-04-09,2026-03-01,2026-03-31,,,Kettlebrook Engineering invoice,INV-00404
+2026-04-10,63200,Recruiting,V1018,Larkspur Recruiting,People,Main Office,6000.00,APJ,2026-04-10,2026-03-01,2026-03-31,,,Larkspur Recruiting invoice,INV-00187
+2026-04-11,62100,Facilities Services,V1006,Ironfern Security Services,Facilities,West Campus,4731.84,APJ,2026-04-11,2026-03-01,2026-03-31,,,Ironfern Security Services invoice,INV-00287
+2026-04-11,60100,Professional Services,V1008,Saltmarsh Logistics,Operations,West Campus,3048.12,APJ,2026-04-11,2026-03-01,2026-03-31,,,Saltmarsh Logistics invoice,INV-00296
+2026-04-12,64200,Events,V1030,Fernmoss Event Services,Marketing,Main Office,4500.00,APJ,2026-04-12,2026-03-01,2026-03-31,,,Fernmoss Event Services invoice,INV-00149
+2026-04-12,61100,Software Subscriptions,V1043,Corvid Lane Data,Engineering,Remote,2298.89,APJ,2026-04-12,2026-03-01,2026-03-31,,,Corvid Lane Data invoice,INV-00359
+2026-04-14,60100,Professional Services,V1024,Kettlebrook Engineering,Engineering,West Campus,7774.46,APJ,2026-04-14,2026-03-01,2026-03-31,,,Kettlebrook Engineering invoice,INV-00332
+2026-04-15,64100,Marketing Services,V1037,Mistberry Survey Tools,Marketing,Remote,500.00,APJ,2026-04-15,2026-04-01,2026-04-30,,,Mistberry Survey Tools invoice,INV-00061
+2026-04-15,61500,Legal Fees,V2001,Ashgrove & Pell LLP,Finance,Main Office,9500.00,APJ,2026-04-15,2026-03-01,2026-03-31,,,Legal services,INV-00261
+2026-04-15,61500,Legal Fees,V2002,Brindle Hart Legal,Finance,Main Office,3875.00,APJ,2026-04-15,2026-03-01,2026-03-31,,,Legal services,INV-00269
+2026-04-15,61500,Legal Fees,V2003,Quarrington Vale LLP,Finance,Main Office,2250.00,APJ,2026-04-15,2026-03-01,2026-03-31,,,Legal services,INV-00277
+2026-04-16,60200,Consulting Fees,V1047,Kestrelmoor Consulting,Finance,Main Office,9121.75,APJ,2026-04-16,2026-03-01,2026-03-31,,,Kestrelmoor Consulting invoice,INV-00395
+2026-04-17,60100,Professional Services,V1046,Hazelnook Staffing,Operations,West Campus,6456.96,APJ,2026-04-17,,,,,Services - March 2026,INV-00386
+2026-04-18,64100,Marketing Services,V1012,Foxglove Marketing Studio,Marketing,Main Office,5000.00,APJ,2026-04-18,2026-04-01,2026-04-30,,,Foxglove Marketing Studio invoice,INV-00205
+2026-04-19,62100,Facilities Services,V1034,Tidepool Recycling,Facilities,West Campus,1317.86,APJ,2026-04-19,,,,,Services - March 2026,INV-00341
+2026-04-20,61100,Software Subscriptions,V1015,Mossgate Software Licensing,Engineering,Remote,5000.00,APJ,2026-04-20,2026-04-01,2026-04-30,,,Mossgate Software Licensing invoice,INV-00013
+2026-04-20,62300,Rent & Parking,V1033,Sunpeg Parking Services,Facilities,Main Office,2000.00,APJ,2026-04-20,2026-04-01,2026-04-30,,,Sunpeg Parking Services invoice,INV-00162
+2026-04-20,61100,Software Subscriptions,V1010,Lanternfish Data Labs,Engineering,Remote,20000.00,APJ,2026-04-20,2026-04-01,2026-04-30,,,Lanternfish Data Labs invoice,INV-00215
+2026-04-22,64200,Events,V1021,Orchard Lane Catering,People,Main Office,2100.00,APJ,2026-04-22,2026-04-01,2026-04-30,,,Orchard Lane Catering invoice,INV-00179
+2026-04-24,65300,Training,V1025,Silverfen Training Co,People,Remote,2000.00,APJ,2026-04-24,2026-04-01,2026-04-30,,,Silverfen Training Co invoice,INV-00225
+2026-04-25,60200,Consulting Fees,V1001,Northwind Consulting,Finance,Main Office,16000.00,APJ,2026-04-25,2026-04-01,2026-04-30,,,Northwind Consulting invoice,INV-00004
+2026-04-27,63300,Benefits Administration,V1029,Bellwort Wellness Programs,People,Main Office,2000.00,APJ,2026-04-27,2026-04-01,2026-04-30,,,Bellwort Wellness Programs invoice,INV-00097
+2026-04-30,65200,Office Supplies,V1035,Willowmere Coffee Service,Facilities,Main Office,1100.00,UNB,2026-04-30,,,,,Coffee service receipt,INV-00106
+2026-04-30,65100,Travel,V1016,Driftwood Travel Desk,Sales,Main Office,2000.00,UNB,2026-04-30,,,,,Travel desk receipts Apr 2026,INV-00143
+2026-04-30,65100,Travel,V9001,Corporate Card Program,Finance,Main Office,890.00,CCJ,2026-04-30,,,,,Corporate card statement,INV-00239
+2026-05-01,70100,Interest Expense,V1039,Kestrel Point Lending,Finance,Main Office,4200.00,APJ,2026-05-01,,,,,Loan interest,INV-00250
+2026-05-03,62300,Rent & Parking,V1027,Granite Hollow Property Mgmt,Facilities,West Campus,10000.00,APJ,2026-05-03,2026-04-01,2026-04-30,,,Granite Hollow Property Mgmt invoice,INV-00085
+2026-05-03,62100,Facilities Services,V1013,Pebblecreek Janitorial,Facilities,Main Office,3800.00,APJ,2026-05-03,2026-04-01,2026-04-30,,,Pebblecreek Janitorial invoice,INV-00154
+2026-05-04,62100,Facilities Services,V1003,Copperwren Facilities,Facilities,Main Office,10000.00,APJ,2026-05-04,2026-04-01,2026-04-30,,,Copperwren Facilities invoice,INV-00121
+2026-05-04,60100,Professional Services,V1008,Saltmarsh Logistics,Operations,West Campus,2901.72,APJ,2026-05-04,,,,,Monthly services,INV-00297
+2026-05-05,62200,Utilities,V1011,Junebrook Utilities,Facilities,Main Office,3000.00,APJ,2026-05-05,2026-04-01,2026-04-30,,,Junebrook Utilities invoice,INV-00070
+2026-05-05,65200,Office Supplies,V1028,Ravenquill Courier,Operations,Main Office,1500.00,APJ,2026-05-05,2026-04-01,2026-04-30,,,Ravenquill Courier invoice,INV-00170
+2026-05-06,63100,Insurance,V1002,Blue Harbor Insurance,Finance,Main Office,1000.00,APJ,2026-05-06,2026-04-01,2026-04-30,,,Broker fee,INV-00024
+2026-05-06,61200,Cloud Hosting,V1005,Tallreed Cloud Hosting,Engineering,Remote,7000.00,APJ,2026-05-06,2026-04-01,2026-04-30,,,Tallreed Cloud Hosting invoice,INV-00034
+2026-05-06,61100,Software Subscriptions,V1005,Tallreed Cloud Hosting,Engineering,Remote,1000.00,APJ,2026-05-06,2026-04-01,2026-04-30,,,Tallreed Cloud Hosting invoice,INV-00043
+2026-05-06,62100,Facilities Services,V1023,Hollowpine Equipment Rental,Facilities,West Campus,3500.00,APJ,2026-05-06,2026-04-01,2026-04-30,,,Hollowpine Equipment Rental invoice,INV-00130
+2026-05-06,65200,Office Supplies,V1044,Sablewing Couriers,Operations,West Campus,758.31,APJ,2026-05-06,2026-04-01,2026-04-30,,,Sablewing Couriers invoice,INV-00369
+2026-05-07,60100,Professional Services,V1004,Meadowlark Staffing,Operations,Main Office,17000.00,APJ,2026-05-07,2026-04-01,2026-04-30,,,Meadowlark Staffing invoice,INV-00196
+2026-05-07,60200,Consulting Fees,V1047,Kestrelmoor Consulting,Finance,Main Office,9176.47,APJ,2026-05-07,2026-04-01,2026-04-30,,,Kestrelmoor Consulting invoice,INV-00396
+2026-05-08,64100,Marketing Services,V1022,Starfinch Analytics,Marketing,Remote,4000.00,APJ,2026-05-08,2026-04-01,2026-04-30,,,Starfinch Analytics invoice,INV-00052
+2026-05-08,60200,Consulting Fees,V1024,Kettlebrook Engineering,Engineering,West Campus,2321.16,APJ,2026-05-08,2026-04-01,2026-04-30,,,Kettlebrook Engineering invoice,INV-00405
+2026-05-09,64300,Printing,V1019,Cobaltbay Printing,Marketing,Main Office,2500.00,APJ,2026-05-09,2026-04-01,2026-04-30,,,Cobaltbay Printing invoice,INV-00114
+2026-05-09,63300,Benefits Administration,V1020,Wrenfield Payroll Services,People,Main Office,3702.45,APJ,2026-05-09,2026-04-01,2026-04-30,,,Wrenfield Payroll Services invoice,INV-00324
+2026-05-10,63200,Recruiting,V1018,Larkspur Recruiting,People,Main Office,6000.00,APJ,2026-05-10,2026-04-01,2026-04-30,,,Larkspur Recruiting invoice,INV-00188
+2026-05-11,65200,Office Supplies,V1009,Brambleway Office Supply,Operations,Main Office,861.75,APJ,2026-05-11,,,,,Services - April 2026,INV-00306
+2026-05-11,62100,Facilities Services,V1034,Tidepool Recycling,Facilities,West Campus,1301.15,APJ,2026-05-11,2026-04-01,2026-04-30,,,Tidepool Recycling invoice,INV-00342
+2026-05-14,62100,Facilities Services,,,,,1250.00,APJ,2026-05-14,,,,,Freight - unassigned,INV-00245
+2026-05-15,64100,Marketing Services,V1037,Mistberry Survey Tools,Marketing,Remote,500.00,APJ,2026-05-15,2026-05-01,2026-05-31,,,Mistberry Survey Tools invoice,INV-00062
+2026-05-15,61500,Legal Fees,V2001,Ashgrove & Pell LLP,Finance,Main Office,9500.00,APJ,2026-05-15,2026-04-01,2026-04-30,,,Legal services,INV-00262
+2026-05-15,61500,Legal Fees,V2002,Brindle Hart Legal,Finance,Main Office,3875.00,APJ,2026-05-15,2026-04-01,2026-04-30,,,Legal services,INV-00270
+2026-05-15,61500,Legal Fees,V2003,Quarrington Vale LLP,Finance,Main Office,2250.00,APJ,2026-05-15,2026-04-01,2026-04-30,,,Legal services,INV-00278
+2026-05-15,61100,Software Subscriptions,V1043,Corvid Lane Data,Engineering,Remote,2374.10,APJ,2026-05-15,2026-04-01,2026-04-30,,,Corvid Lane Data invoice,INV-00360
+2026-05-16,62100,Facilities Services,V1006,Ironfern Security Services,Facilities,West Campus,5582.70,APJ,2026-05-16,2026-04-01,2026-04-30,,,Ironfern Security Services invoice,INV-00288
+2026-05-16,64300,Printing,V1045,Duskmeadow Print Lab,Marketing,Main Office,1538.65,APJ,2026-05-16,2026-04-01,2026-04-30,,,Duskmeadow Print Lab invoice,INV-00378
+2026-05-17,60100,Professional Services,V1024,Kettlebrook Engineering,Engineering,West Campus,7845.53,APJ,2026-05-17,,,,,Monthly services,INV-00333
+2026-05-18,64100,Marketing Services,V1012,Foxglove Marketing Studio,Marketing,Main Office,5000.00,APJ,2026-05-18,2026-05-01,2026-05-31,,,Foxglove Marketing Studio invoice,INV-00206
+2026-05-18,63300,Benefits Administration,V1017,Thistlewick Benefits Admin,People,Main Office,2799.61,APJ,2026-05-18,2026-04-01,2026-04-30,,,Thistlewick Benefits Admin invoice,INV-00315
+2026-05-18,60100,Professional Services,V1046,Hazelnook Staffing,Operations,West Campus,5751.82,APJ,2026-05-18,2026-04-01,2026-04-30,,,Hazelnook Staffing invoice,INV-00387
+2026-05-19,61100,Software Subscriptions,V1042,Gildenrow Software,Engineering,Remote,3277.50,APJ,2026-05-19,2026-04-01,2026-04-30,,,Gildenrow Software invoice,INV-00351
+2026-05-20,61100,Software Subscriptions,V1015,Mossgate Software Licensing,Engineering,Remote,5000.00,APJ,2026-05-20,2026-05-01,2026-05-31,,,Mossgate Software Licensing invoice,INV-00014
+2026-05-20,62300,Rent & Parking,V1033,Sunpeg Parking Services,Facilities,Main Office,2000.00,APJ,2026-05-20,2026-05-01,2026-05-31,,,Sunpeg Parking Services invoice,INV-00163
+2026-05-20,61100,Software Subscriptions,V1010,Lanternfish Data Labs,Engineering,Remote,20000.00,APJ,2026-05-20,2026-05-01,2026-05-31,,,Lanternfish Data Labs invoice,INV-00216
+2026-05-22,64200,Events,V1021,Orchard Lane Catering,People,Main Office,2100.00,APJ,2026-05-22,2026-05-01,2026-05-31,,,Orchard Lane Catering invoice,INV-00180
+2026-05-24,65300,Training,V1025,Silverfen Training Co,People,Remote,2000.00,APJ,2026-05-24,2026-05-01,2026-05-31,,,Silverfen Training Co invoice,INV-00226
+2026-05-25,60200,Consulting Fees,V1001,Northwind Consulting,Finance,Main Office,16000.00,APJ,2026-05-25,2026-05-01,2026-05-31,,,Northwind Consulting invoice,INV-00005
+2026-05-27,63300,Benefits Administration,V1029,Bellwort Wellness Programs,People,Main Office,2000.00,APJ,2026-05-27,2026-05-01,2026-05-31,,,Bellwort Wellness Programs invoice,INV-00098
+2026-05-31,65200,Office Supplies,V1035,Willowmere Coffee Service,Facilities,Main Office,1100.00,UNB,2026-05-31,,,,,Coffee service receipt,INV-00107
+2026-05-31,65100,Travel,V1016,Driftwood Travel Desk,Sales,Main Office,2000.00,UNB,2026-05-31,,,,,Travel desk receipts May 2026,INV-00144
+2026-05-31,65100,Travel,V9001,Corporate Card Program,Finance,Main Office,900.00,CCJ,2026-05-31,,,,,Corporate card statement,INV-00240
+2026-06-01,70100,Interest Expense,V1039,Kestrel Point Lending,Finance,Main Office,4200.00,APJ,2026-06-01,,,,,Loan interest,INV-00251
+2026-06-03,62300,Rent & Parking,V1027,Granite Hollow Property Mgmt,Facilities,West Campus,10000.00,APJ,2026-06-03,2026-05-01,2026-05-31,,,Granite Hollow Property Mgmt invoice,INV-00086
+2026-06-03,62100,Facilities Services,V1013,Pebblecreek Janitorial,Facilities,Main Office,3800.00,APJ,2026-06-03,2026-05-01,2026-05-31,,,Pebblecreek Janitorial invoice,INV-00155
+2026-06-04,62100,Facilities Services,V1003,Copperwren Facilities,Facilities,Main Office,10000.00,APJ,2026-06-04,2026-05-01,2026-05-31,,,Copperwren Facilities invoice,INV-00122
+2026-06-04,65200,Office Supplies,V1009,Brambleway Office Supply,Operations,Main Office,884.25,APJ,2026-06-04,2026-05-01,2026-05-31,,,Brambleway Office Supply invoice,INV-00307
+2026-06-05,62200,Utilities,V1011,Junebrook Utilities,Facilities,Main Office,3000.00,APJ,2026-06-05,2026-05-01,2026-05-31,,,Junebrook Utilities invoice,INV-00071
+2026-06-05,65200,Office Supplies,V1028,Ravenquill Courier,Operations,Main Office,1500.00,APJ,2026-06-05,2026-05-01,2026-05-31,,,Ravenquill Courier invoice,INV-00171
+2026-06-05,62100,Facilities Services,V1006,Ironfern Security Services,Facilities,West Campus,4721.47,APJ,2026-06-05,2026-05-01,2026-05-31,,,Ironfern Security Services invoice,INV-00289
+2026-06-05,60100,Professional Services,V1024,Kettlebrook Engineering,Engineering,West Campus,7334.17,APJ,2026-06-05,2026-05-01,2026-05-31,,,Kettlebrook Engineering invoice,INV-00334
+2026-06-05,60100,Professional Services,V1046,Hazelnook Staffing,Operations,West Campus,5888.94,APJ,2026-06-05,2026-05-01,2026-05-31,,,Hazelnook Staffing invoice,INV-00388
+2026-06-06,63100,Insurance,V1002,Blue Harbor Insurance,Finance,Main Office,1000.00,APJ,2026-06-06,2026-05-01,2026-05-31,,,Broker fee,INV-00025
+2026-06-06,61200,Cloud Hosting,V1005,Tallreed Cloud Hosting,Engineering,Remote,7000.00,APJ,2026-06-06,2026-05-01,2026-05-31,,,Tallreed Cloud Hosting invoice,INV-00035
+2026-06-06,61100,Software Subscriptions,V1005,Tallreed Cloud Hosting,Engineering,Remote,1000.00,APJ,2026-06-06,2026-05-01,2026-05-31,,,Tallreed Cloud Hosting invoice,INV-00044
+2026-06-06,62100,Facilities Services,V1023,Hollowpine Equipment Rental,Facilities,West Campus,3500.00,APJ,2026-06-06,2026-05-01,2026-05-31,,,Hollowpine Equipment Rental invoice,INV-00131
+2026-06-07,60100,Professional Services,V1004,Meadowlark Staffing,Operations,Main Office,17000.00,APJ,2026-06-07,2026-05-01,2026-05-31,,,Meadowlark Staffing invoice,INV-00197
+2026-06-08,64100,Marketing Services,V1022,Starfinch Analytics,Marketing,Remote,4000.00,APJ,2026-06-08,2026-05-01,2026-05-31,,,Starfinch Analytics invoice,INV-00053
+2026-06-08,63300,Benefits Administration,V1020,Wrenfield Payroll Services,People,Main Office,4124.76,APJ,2026-06-08,2026-05-01,2026-05-31,,,Wrenfield Payroll Services invoice,INV-00325
+2026-06-08,64300,Printing,V1045,Duskmeadow Print Lab,Marketing,Main Office,1463.48,APJ,2026-06-08,,,,,Monthly services,INV-00379
+2026-06-09,64300,Printing,V1019,Cobaltbay Printing,Marketing,Main Office,2500.00,APJ,2026-06-09,2026-05-01,2026-05-31,,,Cobaltbay Printing invoice,INV-00115
+2026-06-10,63200,Recruiting,V1018,Larkspur Recruiting,People,Main Office,6000.00,APJ,2026-06-10,2026-05-01,2026-05-31,,,Larkspur Recruiting invoice,INV-00189
+2026-06-11,64100,Marketing Services,V1031,Marigold Lane Design,Marketing,Main Office,2000.00,APJ,2026-06-11,2026-05-01,2026-05-31,,,Marigold Lane Design invoice,INV-00136
+2026-06-12,60100,Professional Services,V1007,Quillfeather Translation,Marketing,Remote,1800.00,APJ,2026-06-12,,,,,Translation services,INV-00078
+2026-06-12,65200,Office Supplies,V1044,Sablewing Couriers,Operations,West Campus,681.34,APJ,2026-06-12,,,,,Services - May 2026,INV-00370
+2026-06-12,60200,Consulting Fees,V1024,Kettlebrook Engineering,Engineering,West Campus,2634.11,APJ,2026-06-12,2026-05-01,2026-05-31,,,Kettlebrook Engineering invoice,INV-00406
+2026-06-14,60100,Professional Services,V1026,Amberfield Research Panel,,,5000.00,APJ,2026-06-14,2026-05-01,2026-05-31,,,Research panel,INV-00232
+2026-06-15,64100,Marketing Services,V1037,Mistberry Survey Tools,Marketing,Remote,500.00,APJ,2026-06-15,2026-06-01,2026-06-30,,,Mistberry Survey Tools invoice,INV-00063
+2026-06-15,61500,Legal Fees,V2001,Ashgrove & Pell LLP,Finance,Main Office,9500.00,APJ,2026-06-15,2026-05-01,2026-05-31,,,Legal services,INV-00263
+2026-06-15,61500,Legal Fees,V2002,Brindle Hart Legal,Finance,Main Office,3875.00,APJ,2026-06-15,2026-05-01,2026-05-31,,,Legal services,INV-00271
+2026-06-15,61500,Legal Fees,V2003,Quarrington Vale LLP,Finance,Main Office,2250.00,APJ,2026-06-15,2026-05-01,2026-05-31,,,Legal services,INV-00279
+2026-06-18,64100,Marketing Services,V1012,Foxglove Marketing Studio,Marketing,Main Office,5000.00,APJ,2026-06-18,2026-06-01,2026-06-30,,,Foxglove Marketing Studio invoice,INV-00207
+2026-06-18,61100,Software Subscriptions,V1043,Corvid Lane Data,Engineering,Remote,2092.73,APJ,2026-06-18,2026-05-01,2026-05-31,,,Corvid Lane Data invoice,INV-00361
+2026-06-19,62100,Facilities Services,V1034,Tidepool Recycling,Facilities,West Campus,1199.93,APJ,2026-06-19,2026-05-01,2026-05-31,,,Tidepool Recycling invoice,INV-00343
+2026-06-19,61100,Software Subscriptions,V1042,Gildenrow Software,Engineering,Remote,3375.39,APJ,2026-06-19,,,,,Services - May 2026,INV-00352
+2026-06-20,61100,Software Subscriptions,V1015,Mossgate Software Licensing,Engineering,Remote,5000.00,APJ,2026-06-20,2026-06-01,2026-06-30,,,Mossgate Software Licensing invoice,INV-00015
+2026-06-20,65300,Training,V1015,Mossgate Software Licensing,Engineering,Remote,3000.00,APJ,2026-06-20,2026-06-01,2026-06-30,,,Mossgate Software Licensing invoice,INV-00019
+2026-06-20,62300,Rent & Parking,V1033,Sunpeg Parking Services,Facilities,Main Office,2000.00,APJ,2026-06-20,2026-06-01,2026-06-30,,,Sunpeg Parking Services invoice,INV-00164
+2026-06-20,61100,Software Subscriptions,V1010,Lanternfish Data Labs,Engineering,Remote,20000.00,APJ,2026-06-20,2026-06-01,2026-06-30,,,Lanternfish Data Labs invoice,INV-00217
+2026-06-20,60100,Professional Services,V1008,Saltmarsh Logistics,Operations,West Campus,2814.92,APJ,2026-06-20,2026-05-01,2026-05-31,,,Saltmarsh Logistics invoice,INV-00298
+2026-06-20,63300,Benefits Administration,V1017,Thistlewick Benefits Admin,People,Main Office,2428.64,APJ,2026-06-20,2026-05-01,2026-05-31,,,Thistlewick Benefits Admin invoice,INV-00316
+2026-06-20,60200,Consulting Fees,V1047,Kestrelmoor Consulting,Finance,Main Office,8477.23,APJ,2026-06-20,,,,,Monthly services,INV-00397
+2026-06-22,64200,Events,V1021,Orchard Lane Catering,People,Main Office,2100.00,APJ,2026-06-22,2026-06-01,2026-06-30,,,Orchard Lane Catering invoice,INV-00181
+2026-06-24,65300,Training,V1025,Silverfen Training Co,People,Remote,2000.00,APJ,2026-06-24,2026-06-01,2026-06-30,,,Silverfen Training Co invoice,INV-00227
+2026-06-25,60200,Consulting Fees,V1001,Northwind Consulting,Finance,Main Office,16000.00,APJ,2026-06-25,2026-06-01,2026-06-30,,,Northwind Consulting invoice,INV-00006
+2026-06-27,63300,Benefits Administration,V1029,Bellwort Wellness Programs,People,Main Office,2000.00,APJ,2026-06-27,2026-06-01,2026-06-30,,,Bellwort Wellness Programs invoice,INV-00099
+2026-06-28,60520,Partner Commissions,V1041,Brightlark Referral Partners,Sales,Main Office,7500.00,APJ,2026-06-28,,,,,Partner referral commission,INV-00257
+2026-06-30,65200,Office Supplies,V1035,Willowmere Coffee Service,Facilities,Main Office,1100.00,UNB,2026-06-30,,,,,Coffee service receipt,INV-00108
+2026-06-30,65100,Travel,V1016,Driftwood Travel Desk,Sales,Main Office,2000.00,UNB,2026-06-30,,,,,Travel desk receipts Jun 2026,INV-00145
+2026-06-30,60200,Consulting Fees,V1001,Northwind Consulting,Finance,Main Office,-2000.00,GJ,2026-06-30,,,,,Reclass to 60100,INV-00234
+2026-06-30,60100,Professional Services,V1001,Northwind Consulting,Finance,Main Office,2000.00,GJ,2026-06-30,,,,,Reclass from 60200,INV-00235
+2026-06-30,65100,Travel,V9001,Corporate Card Program,Finance,Main Office,910.00,CCJ,2026-06-30,,,,,Corporate card statement,INV-00241
+2026-07-01,70100,Interest Expense,V1039,Kestrel Point Lending,Finance,Main Office,4200.00,APJ,2026-07-01,,,,,Loan interest,INV-00252
+2026-07-03,13100,Prepaid Expenses,V1002,Blue Harbor Insurance,Finance,Main Office,36500.00,APJ,2026-07-03,2026-07-01,2027-06-30,,,D&O policy 2026-27,INV-00030
+2026-07-03,62300,Rent & Parking,V1027,Granite Hollow Property Mgmt,Facilities,West Campus,10000.00,APJ,2026-07-03,2026-06-01,2026-06-30,,,Granite Hollow Property Mgmt invoice,INV-00087
+2026-07-03,62100,Facilities Services,V1013,Pebblecreek Janitorial,Facilities,Main Office,3800.00,APJ,2026-07-03,2026-06-01,2026-06-30,,,Pebblecreek Janitorial invoice,INV-00156
+2026-07-04,62100,Facilities Services,V1003,Copperwren Facilities,Facilities,Main Office,10000.00,APJ,2026-07-04,2026-06-01,2026-06-30,,,Copperwren Facilities invoice,INV-00123
+2026-07-04,64300,Printing,V1045,Duskmeadow Print Lab,Marketing,Main Office,1698.04,APJ,2026-07-04,2026-06-01,2026-06-30,,,Duskmeadow Print Lab invoice,INV-00380
+2026-07-05,62200,Utilities,V1011,Junebrook Utilities,Facilities,Main Office,3000.00,APJ,2026-07-05,2026-06-01,2026-06-30,,,Junebrook Utilities invoice,INV-00072
+2026-07-05,65200,Office Supplies,V1028,Ravenquill Courier,Operations,Main Office,1500.00,APJ,2026-07-05,2026-06-01,2026-06-30,,,Ravenquill Courier invoice,INV-00172
+2026-07-05,62100,Facilities Services,V1006,Ironfern Security Services,Facilities,West Campus,5234.27,APJ,2026-07-05,,,,,Monthly services,INV-00290
+2026-07-06,63100,Insurance,V1002,Blue Harbor Insurance,Finance,Main Office,1000.00,APJ,2026-07-06,2026-06-01,2026-06-30,,,Broker fee,INV-00026
+2026-07-06,61200,Cloud Hosting,V1005,Tallreed Cloud Hosting,Engineering,Remote,7000.00,APJ,2026-07-06,2026-06-01,2026-06-30,,,Tallreed Cloud Hosting invoice,INV-00036
+2026-07-06,61100,Software Subscriptions,V1005,Tallreed Cloud Hosting,Engineering,Remote,1000.00,APJ,2026-07-06,2026-06-01,2026-06-30,,,Tallreed Cloud Hosting invoice,INV-00045
+2026-07-06,62100,Facilities Services,V1023,Hollowpine Equipment Rental,Facilities,West Campus,3500.00,APJ,2026-07-06,2026-06-01,2026-06-30,,,Hollowpine Equipment Rental invoice,INV-00132
+2026-07-06,63300,Benefits Administration,V1017,Thistlewick Benefits Admin,People,Main Office,2439.70,APJ,2026-07-06,,,,,Monthly services,INV-00317
+2026-07-06,61100,Software Subscriptions,V1042,Gildenrow Software,Engineering,Remote,3692.99,APJ,2026-07-06,2026-06-01,2026-06-30,,,Gildenrow Software invoice,INV-00353
+2026-07-07,60100,Professional Services,V1004,Meadowlark Staffing,Operations,Main Office,17000.00,APJ,2026-07-07,2026-06-01,2026-06-30,,,Meadowlark Staffing invoice,INV-00198
+2026-07-08,64100,Marketing Services,V1022,Starfinch Analytics,Marketing,Remote,4000.00,APJ,2026-07-08,2026-06-01,2026-06-30,,,Starfinch Analytics invoice,INV-00054
+2026-07-09,64300,Printing,V1019,Cobaltbay Printing,Marketing,Main Office,2500.00,APJ,2026-07-09,2026-06-01,2026-06-30,,,Cobaltbay Printing invoice,INV-00116
+2026-07-10,63200,Recruiting,V1018,Larkspur Recruiting,People,Main Office,6000.00,APJ,2026-07-10,2026-06-01,2026-06-30,,,Larkspur Recruiting invoice,INV-00190
+2026-07-10,62100,Facilities Services,V1034,Tidepool Recycling,Facilities,West Campus,1278.82,APJ,2026-07-10,2026-06-01,2026-06-30,,,Tidepool Recycling invoice,INV-00344
+2026-07-11,65200,Office Supplies,V1009,Brambleway Office Supply,Operations,Main Office,976.01,APJ,2026-07-11,2026-06-01,2026-06-30,,,Brambleway Office Supply invoice,INV-00308
+2026-07-13,65200,Office Supplies,V1044,Sablewing Couriers,Operations,West Campus,642.12,APJ,2026-07-13,2026-06-01,2026-06-30,,,Sablewing Couriers invoice,INV-00371
+2026-07-13,60100,Professional Services,V1046,Hazelnook Staffing,Operations,West Campus,6512.96,APJ,2026-07-13,2026-06-01,2026-06-30,,,Hazelnook Staffing invoice,INV-00389
+2026-07-13,60200,Consulting Fees,V1024,Kettlebrook Engineering,Engineering,West Campus,2606.34,APJ,2026-07-13,2026-06-01,2026-06-30,,,Kettlebrook Engineering invoice,INV-00407
+2026-07-15,64100,Marketing Services,V1037,Mistberry Survey Tools,Marketing,Remote,500.00,APJ,2026-07-15,2026-07-01,2026-07-31,,,Mistberry Survey Tools invoice,INV-00064
+2026-07-15,61500,Legal Fees,V2001,Ashgrove & Pell LLP,Finance,Main Office,9500.00,APJ,2026-07-15,2026-06-01,2026-06-30,,,Legal services,INV-00264
+2026-07-15,61500,Legal Fees,V2002,Brindle Hart Legal,Finance,Main Office,3875.00,APJ,2026-07-15,2026-06-01,2026-06-30,,,Legal services,INV-00272
+2026-07-15,61500,Legal Fees,V2003,Quarrington Vale LLP,Finance,Main Office,2250.00,APJ,2026-07-15,2026-06-01,2026-06-30,,,Legal services,INV-00280
+2026-07-16,60200,Consulting Fees,V1047,Kestrelmoor Consulting,Finance,Main Office,9171.10,APJ,2026-07-16,2026-06-01,2026-06-30,,,Kestrelmoor Consulting invoice,INV-00398
+2026-07-18,64100,Marketing Services,V1012,Foxglove Marketing Studio,Marketing,Main Office,5000.00,APJ,2026-07-18,2026-07-01,2026-07-31,,,Foxglove Marketing Studio invoice,INV-00208
+2026-07-19,60100,Professional Services,V1008,Saltmarsh Logistics,Operations,West Campus,3224.76,APJ,2026-07-19,2026-06-01,2026-06-30,,,Saltmarsh Logistics invoice,INV-00299
+2026-07-19,60100,Professional Services,V1024,Kettlebrook Engineering,Engineering,West Campus,7655.59,APJ,2026-07-19,,,,,Monthly services,INV-00335
+2026-07-20,61100,Software Subscriptions,V1015,Mossgate Software Licensing,Engineering,Remote,5000.00,APJ,2026-07-20,2026-07-01,2026-07-31,,,Mossgate Software Licensing invoice,INV-00016
+2026-07-20,62300,Rent & Parking,V1033,Sunpeg Parking Services,Facilities,Main Office,2000.00,APJ,2026-07-20,2026-07-01,2026-07-31,,,Sunpeg Parking Services invoice,INV-00165
+2026-07-20,61100,Software Subscriptions,V1010,Lanternfish Data Labs,Engineering,Remote,20000.00,APJ,2026-07-20,2026-07-01,2026-07-31,,,Lanternfish Data Labs invoice,INV-00218
+2026-07-20,63300,Benefits Administration,V1020,Wrenfield Payroll Services,People,Main Office,4464.56,APJ,2026-07-20,,,,,Services - June 2026,INV-00326
+2026-07-20,61100,Software Subscriptions,V1043,Corvid Lane Data,Engineering,Remote,2348.12,APJ,2026-07-20,2026-06-01,2026-06-30,,,Corvid Lane Data invoice,INV-00362
+2026-07-22,64200,Events,V1021,Orchard Lane Catering,People,Main Office,2100.00,APJ,2026-07-22,2026-07-01,2026-07-31,,,Orchard Lane Catering invoice,INV-00182
+2026-07-24,65300,Training,V1025,Silverfen Training Co,People,Remote,2000.00,APJ,2026-07-24,2026-07-01,2026-07-31,,,Silverfen Training Co invoice,INV-00228
+2026-07-25,60200,Consulting Fees,V1001,Northwind Consulting,Finance,Main Office,16000.00,APJ,2026-07-25,2026-07-01,2026-07-31,,,Northwind Consulting invoice,INV-00007
+2026-07-27,63300,Benefits Administration,V1029,Bellwort Wellness Programs,People,Main Office,2000.00,APJ,2026-07-27,2026-07-01,2026-07-31,,,Bellwort Wellness Programs invoice,INV-00100
+2026-07-31,65200,Office Supplies,V1035,Willowmere Coffee Service,Facilities,Main Office,1100.00,UNB,2026-07-31,,,,,Coffee service receipt,INV-00109
+2026-07-31,65100,Travel,V1016,Driftwood Travel Desk,Sales,Main Office,2000.00,UNB,2026-07-31,,,,,Travel desk receipts Jul 2026,INV-00146
+2026-07-31,65100,Travel,V9001,Corporate Card Program,Finance,Main Office,920.00,CCJ,2026-07-31,,,,,Corporate card statement,INV-00242
+2026-08-01,70100,Interest Expense,V1039,Kestrel Point Lending,Finance,Main Office,4200.00,APJ,2026-08-01,,,,,Loan interest,INV-00253
+2026-08-03,60100,Professional Services,V1007,Quillfeather Translation,Marketing,Remote,900.00,APJ,2026-08-03,,,,,Inv 07/2026 localization,INV-00079
+2026-08-03,62300,Rent & Parking,V1027,Granite Hollow Property Mgmt,Facilities,West Campus,10000.00,APJ,2026-08-03,2026-07-01,2026-07-31,,,Granite Hollow Property Mgmt invoice,INV-00088
+2026-08-03,62100,Facilities Services,V1013,Pebblecreek Janitorial,Facilities,Main Office,3800.00,APJ,2026-08-03,2026-07-01,2026-07-31,,,Pebblecreek Janitorial invoice,INV-00157
+2026-08-03,65200,Office Supplies,V1009,Brambleway Office Supply,Operations,Main Office,869.31,APJ,2026-08-03,,,,,Monthly services,INV-00309
+2026-08-03,65200,Office Supplies,V1044,Sablewing Couriers,Operations,West Campus,648.29,APJ,2026-08-03,2026-07-01,2026-07-31,,,Sablewing Couriers invoice,INV-00372
+2026-08-04,62100,Facilities Services,V1003,Copperwren Facilities,Facilities,Main Office,10000.00,APJ,2026-08-04,2026-07-01,2026-07-31,,,Copperwren Facilities invoice,INV-00124
+2026-08-05,62200,Utilities,V1011,Junebrook Utilities,Facilities,Main Office,3000.00,APJ,2026-08-05,2026-07-01,2026-07-31,,,Junebrook Utilities invoice,INV-00073
+2026-08-05,65200,Office Supplies,V1028,Ravenquill Courier,Operations,Main Office,1500.00,APJ,2026-08-05,2026-07-01,2026-07-31,,,Ravenquill Courier invoice,INV-00173
+2026-08-05,62100,Facilities Services,V1006,Ironfern Security Services,Facilities,West Campus,5381.52,APJ,2026-08-05,,,,,Services - July 2026,INV-00291
+2026-08-06,63100,Insurance,V1002,Blue Harbor Insurance,Finance,Main Office,1000.00,APJ,2026-08-06,2026-07-01,2026-07-31,,,Broker fee,INV-00027
+2026-08-06,61200,Cloud Hosting,V1005,Tallreed Cloud Hosting,Engineering,Remote,7000.00,APJ,2026-08-06,2026-07-01,2026-07-31,,,Tallreed Cloud Hosting invoice,INV-00037
+2026-08-06,61100,Software Subscriptions,V1005,Tallreed Cloud Hosting,Engineering,Remote,1000.00,APJ,2026-08-06,2026-07-01,2026-07-31,,,Tallreed Cloud Hosting invoice,INV-00046
+2026-08-06,62100,Facilities Services,V1023,Hollowpine Equipment Rental,Facilities,West Campus,3500.00,APJ,2026-08-06,2026-07-01,2026-07-31,,,Hollowpine Equipment Rental invoice,INV-00133
+2026-08-07,60100,Professional Services,V1004,Meadowlark Staffing,Operations,Main Office,17000.00,APJ,2026-08-07,2026-07-01,2026-07-31,,,Meadowlark Staffing invoice,INV-00199
+2026-08-08,64100,Marketing Services,V1022,Starfinch Analytics,Marketing,Remote,4000.00,APJ,2026-08-08,2026-07-01,2026-07-31,,,Starfinch Analytics invoice,INV-00055
+2026-08-08,61100,Software Subscriptions,V1043,Corvid Lane Data,Engineering,Remote,1987.19,APJ,2026-08-08,2026-07-01,2026-07-31,,,Corvid Lane Data invoice,INV-00363
+2026-08-09,64300,Printing,V1019,Cobaltbay Printing,Marketing,Main Office,2500.00,APJ,2026-08-09,2026-07-01,2026-07-31,,,Cobaltbay Printing invoice,INV-00117
+2026-08-09,61100,Software Subscriptions,V1042,Gildenrow Software,Engineering,Remote,3573.69,APJ,2026-08-09,2026-07-01,2026-07-31,,,Gildenrow Software invoice,INV-00354
+2026-08-10,63200,Recruiting,V1018,Larkspur Recruiting,People,Main Office,6000.00,APJ,2026-08-10,2026-07-01,2026-07-31,,,Larkspur Recruiting invoice,INV-00191
+2026-08-10,63300,Benefits Administration,V1020,Wrenfield Payroll Services,People,Main Office,4342.35,APJ,2026-08-10,2026-07-01,2026-07-31,,,Wrenfield Payroll Services invoice,INV-00327
+2026-08-10,60200,Consulting Fees,V1047,Kestrelmoor Consulting,Finance,Main Office,9059.18,APJ,2026-08-10,2026-07-01,2026-07-31,,,Kestrelmoor Consulting invoice,INV-00399
+2026-08-11,63300,Benefits Administration,V1017,Thistlewick Benefits Admin,People,Main Office,2787.63,APJ,2026-08-11,2026-07-01,2026-07-31,,,Thistlewick Benefits Admin invoice,INV-00318
+2026-08-12,60100,Professional Services,V1032,Oakmere Audit Advisory,Finance,Main Office,30000.00,APJ,2026-08-12,2026-07-01,2026-07-31,,,Interim audit,INV-00092
+2026-08-13,60100,Professional Services,V1008,Saltmarsh Logistics,Operations,West Campus,3245.14,APJ,2026-08-13,2026-07-01,2026-07-31,,,Saltmarsh Logistics invoice,INV-00300
+2026-08-15,64100,Marketing Services,V1037,Mistberry Survey Tools,Marketing,Remote,500.00,APJ,2026-08-15,2026-08-01,2026-08-31,,,Mistberry Survey Tools invoice,INV-00065
+2026-08-15,61500,Legal Fees,V2001,Ashgrove & Pell LLP,Finance,Main Office,9500.00,APJ,2026-08-15,2026-07-01,2026-07-31,,,Legal services,INV-00265
+2026-08-15,61500,Legal Fees,V2002,Brindle Hart Legal,Finance,Main Office,3875.00,APJ,2026-08-15,2026-07-01,2026-07-31,,,Legal services,INV-00273
+2026-08-15,61500,Legal Fees,V2003,Quarrington Vale LLP,Finance,Main Office,2250.00,APJ,2026-08-15,2026-07-01,2026-07-31,,,Legal services,INV-00281
+2026-08-15,60100,Professional Services,V1046,Hazelnook Staffing,Operations,West Campus,6483.91,APJ,2026-08-15,,,,,Monthly services,INV-00390
+2026-08-16,62100,Facilities Services,V1034,Tidepool Recycling,Facilities,West Campus,1267.83,APJ,2026-08-16,2026-07-01,2026-07-31,,,Tidepool Recycling invoice,INV-00345
+2026-08-17,64300,Printing,V1045,Duskmeadow Print Lab,Marketing,Main Office,1614.82,APJ,2026-08-17,2026-07-01,2026-07-31,,,Duskmeadow Print Lab invoice,INV-00381
+2026-08-18,64100,Marketing Services,V1012,Foxglove Marketing Studio,Marketing,Main Office,5000.00,APJ,2026-08-18,2026-08-01,2026-08-31,,,Foxglove Marketing Studio invoice,INV-00209
+2026-08-19,65200,Office Supplies,,,,,310.00,APJ,2026-08-19,,,,,Misc supplies - no vendor,INV-00246
+2026-08-19,60100,Professional Services,V1024,Kettlebrook Engineering,Engineering,West Campus,7691.29,APJ,2026-08-19,,,,,Services - July 2026,INV-00336
+2026-08-19,60200,Consulting Fees,V1024,Kettlebrook Engineering,Engineering,West Campus,2619.17,APJ,2026-08-19,,,,,Services - July 2026,INV-00408
+2026-08-20,61100,Software Subscriptions,V1015,Mossgate Software Licensing,Engineering,Remote,5000.00,APJ,2026-08-20,2026-08-01,2026-08-31,,,Mossgate Software Licensing invoice,INV-00017
+2026-08-20,62300,Rent & Parking,V1033,Sunpeg Parking Services,Facilities,Main Office,1000.00,APJ,2026-08-20,2026-08-01,2026-08-15,,,Parking 8/1-8/15,INV-00166
+2026-08-20,61100,Software Subscriptions,V1010,Lanternfish Data Labs,Engineering,Remote,20000.00,APJ,2026-08-20,2026-08-01,2026-08-31,,,Lanternfish Data Labs invoice,INV-00219
+2026-08-20,16000,CIP - Buildouts,V3001,Quarrystep Builders,Facilities,Harbor Street Studio,100000.00,APJ,2026-08-20,,,,,Harbor Street framing progress billing,INV-00283
+2026-08-22,64200,Events,V1021,Orchard Lane Catering,People,Main Office,2100.00,APJ,2026-08-22,2026-08-01,2026-08-31,,,Orchard Lane Catering invoice,INV-00183
+2026-08-22,16000,CIP - Buildouts,V3002,Lumenvale Electrical,Facilities,West Campus,80000.00,APJ,2026-08-22,,,,,West Campus power progress billing,INV-00284
+2026-08-24,65300,Training,V1025,Silverfen Training Co,People,Remote,2000.00,APJ,2026-08-24,2026-08-01,2026-08-31,,,Silverfen Training Co invoice,INV-00229
+2026-08-25,60200,Consulting Fees,V1001,Northwind Consulting,Finance,Main Office,16000.00,APJ,2026-08-25,2026-08-01,2026-08-31,,,Northwind Consulting invoice,INV-00008
+2026-08-25,64100,Marketing Services,V1012,Foxglove Marketing Studio,Marketing,Main Office,25000.00,APJ,2026-08-25,2026-08-01,2026-08-31,,,Fall campaign launch,INV-00211
+2026-08-27,63300,Benefits Administration,V1029,Bellwort Wellness Programs,People,Main Office,2000.00,APJ,2026-08-27,2026-08-01,2026-08-31,,,Bellwort Wellness Programs invoice,INV-00101
+2026-08-31,65200,Office Supplies,V1035,Willowmere Coffee Service,Facilities,Main Office,1100.00,UNB,2026-08-31,,,,,Coffee service receipt,INV-00110
+2026-08-31,65100,Travel,V1016,Driftwood Travel Desk,Sales,Main Office,2000.00,UNB,2026-08-31,,,,,Travel desk receipts Aug 2026,INV-00147
+2026-08-31,65100,Travel,V9001,Corporate Card Program,Finance,Main Office,930.00,CCJ,2026-08-31,,,,,Corporate card statement,INV-00243
+2026-09-01,70100,Interest Expense,V1039,Kestrel Point Lending,Finance,Main Office,4200.00,APJ,2026-09-01,,,,,Loan interest,INV-00254
+2026-09-03,62300,Rent & Parking,V1027,Granite Hollow Property Mgmt,Facilities,West Campus,10000.00,APJ,2026-09-03,2026-08-01,2026-08-31,,,Granite Hollow Property Mgmt invoice,INV-00089
+2026-09-04,62100,Facilities Services,V1003,Copperwren Facilities,Facilities,Main Office,10000.00,APJ,2026-09-04,2026-08-01,2026-08-31,,,Copperwren Facilities invoice,INV-00125
+2026-09-04,62100,Facilities Services,V1006,Ironfern Security Services,Facilities,West Campus,5652.67,APJ,2026-09-04,2026-08-01,2026-08-31,,,Ironfern Security Services invoice,INV-00292
+2026-09-05,62200,Utilities,V1011,Junebrook Utilities,Facilities,Main Office,3000.00,APJ,2026-09-05,,,,,Utility charges,INV-00074
+2026-09-05,65200,Office Supplies,V1028,Ravenquill Courier,Operations,Main Office,1500.00,APJ,2026-09-05,2026-08-01,2026-08-31,,,Ravenquill Courier invoice,INV-00174
+2026-09-05,60100,Professional Services,V1046,Hazelnook Staffing,Operations,West Campus,6588.40,APJ,2026-09-05,2026-08-01,2026-08-31,,,Hazelnook Staffing invoice,INV-00391
+2026-09-06,63100,Insurance,V1002,Blue Harbor Insurance,Finance,Main Office,1000.00,APJ,2026-09-06,2026-08-01,2026-08-31,,,Broker fee,INV-00028
+2026-09-06,61200,Cloud Hosting,V1005,Tallreed Cloud Hosting,Engineering,Remote,7000.00,APJ,2026-09-06,2026-08-01,2026-08-31,,,Tallreed Cloud Hosting invoice,INV-00038
+2026-09-06,61100,Software Subscriptions,V1005,Tallreed Cloud Hosting,Engineering,Remote,1000.00,APJ,2026-09-06,2026-08-01,2026-08-31,,,Tallreed Cloud Hosting invoice,INV-00047
+2026-09-06,62100,Facilities Services,V1023,Hollowpine Equipment Rental,Facilities,West Campus,3500.00,APJ,2026-09-06,2026-08-01,2026-08-31,,,Hollowpine Equipment Rental invoice,INV-00134
+2026-09-06,63300,Benefits Administration,V1017,Thistlewick Benefits Admin,People,Main Office,2680.08,APJ,2026-09-06,2026-08-01,2026-08-31,,,Thistlewick Benefits Admin invoice,INV-00319
+2026-09-07,60100,Professional Services,V1004,Meadowlark Staffing,Operations,Main Office,17000.00,APJ,2026-09-07,2026-08-01,2026-08-31,,,Meadowlark Staffing invoice,INV-00200
+2026-09-08,64100,Marketing Services,V1022,Starfinch Analytics,Marketing,Remote,4000.00,APJ,2026-09-08,2026-08-01,2026-08-31,,,Starfinch Analytics invoice,INV-00056
+2026-09-08,60100,Professional Services,V1008,Saltmarsh Logistics,Operations,West Campus,3001.30,APJ,2026-09-08,2026-08-01,2026-08-31,,,Saltmarsh Logistics invoice,INV-00301
+2026-09-09,61100,Software Subscriptions,V1042,Gildenrow Software,Engineering,Remote,3707.30,APJ,2026-09-09,2026-08-01,2026-08-31,,,Gildenrow Software invoice,INV-00355
+2026-09-09,61100,Software Subscriptions,V1043,Corvid Lane Data,Engineering,Remote,2082.54,APJ,2026-09-09,2026-08-01,2026-08-31,,,Corvid Lane Data invoice,INV-00364
+2026-09-10,61300,Telecom,V1014,Cinderwick Telecom,Engineering,Main Office,450.00,APJ,2026-09-10,2026-09-01,2026-09-30,,,Overage charges,INV-00139
+2026-09-10,63200,Recruiting,V1018,Larkspur Recruiting,People,Main Office,6000.00,APJ,2026-09-10,2026-08-01,2026-08-31,,,Larkspur Recruiting invoice,INV-00192
+2026-09-10,63300,Benefits Administration,V1020,Wrenfield Payroll Services,People,Main Office,4042.87,APJ,2026-09-10,2026-08-01,2026-08-31,,,Wrenfield Payroll Services invoice,INV-00328
+2026-09-11,64100,Marketing Services,V1031,Marigold Lane Design,Marketing,Main Office,2000.00,APJ,2026-09-11,2026-08-01,2026-08-31,,,Marigold Lane Design invoice,INV-00137
+2026-09-14,60100,Professional Services,V1026,Amberfield Research Panel,,,5000.00,APJ,2026-09-14,2026-08-01,2026-08-31,,,Research panel,INV-00233
+2026-09-15,64100,Marketing Services,V1037,Mistberry Survey Tools,Marketing,Remote,500.00,APJ,2026-09-15,2026-09-01,2026-09-30,,,Mistberry Survey Tools invoice,INV-00066
+2026-09-15,65100,Travel,V1040,Pinwheel Shuttle Co,Operations,Main Office,5400.00,APJ,2026-09-15,2026-07-01,2026-09-30,,,Shuttle Q3,INV-00221
+2026-09-15,61500,Legal Fees,V2001,Ashgrove & Pell LLP,Finance,Main Office,9500.00,APJ,2026-09-15,2026-08-01,2026-08-31,,,Legal services,INV-00266
+2026-09-15,61500,Legal Fees,V2002,Brindle Hart Legal,Finance,Main Office,3875.00,APJ,2026-09-15,2026-08-01,2026-08-31,,,Legal services,INV-00274
+2026-09-15,61500,Legal Fees,V2003,Quarrington Vale LLP,Finance,Main Office,2250.00,APJ,2026-09-15,2026-08-01,2026-08-31,,,Legal services,INV-00282
+2026-09-15,60100,Professional Services,V1024,Kettlebrook Engineering,Engineering,West Campus,7578.83,APJ,2026-09-15,2026-08-01,2026-08-31,,,Kettlebrook Engineering invoice,INV-00337
+2026-09-15,60200,Consulting Fees,V1024,Kettlebrook Engineering,Engineering,West Campus,2495.13,APJ,2026-09-15,2026-08-01,2026-08-31,,,Kettlebrook Engineering invoice,INV-00409
+2026-09-16,62100,Facilities Services,V1034,Tidepool Recycling,Facilities,West Campus,1216.91,APJ,2026-09-16,,,,,Monthly services,INV-00346
+2026-09-16,65200,Office Supplies,V1044,Sablewing Couriers,Operations,West Campus,726.23,APJ,2026-09-16,2026-08-01,2026-08-31,,,Sablewing Couriers invoice,INV-00373
+2026-09-16,60200,Consulting Fees,V1047,Kestrelmoor Consulting,Finance,Main Office,9369.82,APJ,2026-09-16,,,,,Services - August 2026,INV-00400
+2026-09-18,64100,Marketing Services,V1012,Foxglove Marketing Studio,Marketing,Main Office,5000.00,APJ,2026-09-18,2026-09-01,2026-09-30,,,Foxglove Marketing Studio invoice,INV-00210
+2026-09-18,64300,Printing,V1045,Duskmeadow Print Lab,Marketing,Main Office,1716.41,APJ,2026-09-18,2026-08-01,2026-08-31,,,Duskmeadow Print Lab invoice,INV-00382
+2026-09-18,62100,Facilities Services,V1003,Copperwren Facilities,Facilities,Main Office,10000.00,APJ,2026-09-18,2026-08-01,2026-08-31,,,Duplicate of Aug,INV-CW-0099
+2026-09-19,65200,Office Supplies,V1009,Brambleway Office Supply,Operations,Main Office,944.68,APJ,2026-09-19,,,,,Monthly services,INV-00310
+2026-09-20,61100,Software Subscriptions,V1010,Lanternfish Data Labs,Engineering,Remote,20000.00,APJ,2026-09-20,2026-09-01,2026-09-30,,,Lanternfish Data Labs invoice,INV-00220
+2026-09-22,64200,Events,V1021,Orchard Lane Catering,People,Main Office,2100.00,APJ,2026-09-22,2026-09-01,2026-09-30,,,Orchard Lane Catering invoice,INV-00184
+2026-09-22,65300,Training,V1025,Silverfen Training Co,People,Remote,4000.00,APJ,2026-09-22,2026-10-01,2026-10-31,,,October cohort,INV-00230
+2026-09-25,60200,Consulting Fees,V1001,Northwind Consulting,Finance,Main Office,16000.00,APJ,2026-09-25,2026-09-01,2026-09-30,,,Northwind Consulting invoice,INV-00009
+2026-09-27,63300,Benefits Administration,V1029,Bellwort Wellness Programs,People,Main Office,2000.00,APJ,2026-09-27,2026-09-01,2026-09-30,,,Bellwort Wellness Programs invoice,INV-00102
+2026-09-28,65200,Office Supplies,V1028,Ravenquill Courier,Operations,Main Office,400.00,APJ,2026-09-28,2026-09-01,2026-09-15,,,Courier 9/1-9/15,INV-00175
+2026-09-28,60520,Partner Commissions,V1041,Brightlark Referral Partners,Sales,Main Office,7500.00,APJ,2026-09-28,,,,,Partner referral commission,INV-00258
+2026-09-30,65100,Travel,V9001,Corporate Card Program,Finance,Main Office,940.00,CCJ,2026-09-30,,,,,Corporate card statement,INV-00244
+2026-09-30,70100,Interest Expense,V1039,Kestrel Point Lending,Finance,Main Office,4200.00,APJ,2026-09-30,,,,,Loan interest,INV-00255
+2026-10-02,62100,Facilities Services,V1013,Pebblecreek Janitorial,Facilities,Main Office,3800.00,APJ,2026-10-02,2026-08-01,2026-08-31,,,August janitorial,INV-00158
+2026-10-03,62300,Rent & Parking,V1027,Granite Hollow Property Mgmt,Facilities,West Campus,10000.00,APJ,2026-10-03,2026-09-01,2026-09-30,,,Granite Hollow Property Mgmt invoice,INV-00090
+2026-10-05,62200,Utilities,V1011,Junebrook Utilities,Facilities,Main Office,3000.00,APJ,2026-10-05,,,,,Utility charges,INV-00075
+2026-10-06,63100,Insurance,V1002,Blue Harbor Insurance,Finance,Main Office,1000.00,APJ,2026-10-06,2026-09-01,2026-09-30,,,Broker fee,INV-00029
+2026-10-06,61200,Cloud Hosting,V1005,Tallreed Cloud Hosting,Engineering,Remote,7000.00,APJ,2026-10-06,2026-09-01,2026-09-30,,,Tallreed Cloud Hosting invoice,INV-00039
+2026-10-06,61100,Software Subscriptions,V1005,Tallreed Cloud Hosting,Engineering,Remote,1000.00,APJ,2026-10-06,2026-09-01,2026-09-30,,,Tallreed Cloud Hosting invoice,INV-00048
+2026-10-06,61100,Software Subscriptions,V1042,Gildenrow Software,Engineering,Remote,3135.52,APJ,2026-10-06,2026-09-01,2026-09-30,,,Gildenrow Software invoice,INV-00356
+2026-10-06,64300,Printing,V1045,Duskmeadow Print Lab,Marketing,Main Office,1696.69,APJ,2026-10-06,2026-09-01,2026-09-30,,,Duskmeadow Print Lab invoice,INV-00383
+2026-10-07,60100,Professional Services,V1004,Meadowlark Staffing,Operations,Main Office,17000.00,APJ,2026-10-07,2026-09-01,2026-09-30,,,Meadowlark Staffing invoice,INV-00201
+2026-10-07,60100,Professional Services,V1024,Kettlebrook Engineering,Engineering,West Campus,7923.99,APJ,2026-10-07,,,,,Monthly services,INV-00338
+2026-10-08,64100,Marketing Services,V1022,Starfinch Analytics,Marketing,Remote,4000.00,APJ,2026-10-08,2026-09-01,2026-09-30,,,Starfinch Analytics invoice,INV-00057
+2026-10-08,63300,Benefits Administration,V1017,Thistlewick Benefits Admin,People,Main Office,2679.17,APJ,2026-10-08,2026-09-01,2026-09-30,,,Thistlewick Benefits Admin invoice,INV-00320
+2026-10-11,62100,Facilities Services,V1006,Ironfern Security Services,Facilities,West Campus,4687.13,APJ,2026-10-11,2026-09-01,2026-09-30,,,Ironfern Security Services invoice,INV-00293
+2026-10-11,60100,Professional Services,V1008,Saltmarsh Logistics,Operations,West Campus,3015.03,APJ,2026-10-11,2026-09-01,2026-09-30,,,Saltmarsh Logistics invoice,INV-00302
+2026-10-13,60200,Consulting Fees,V1047,Kestrelmoor Consulting,Finance,Main Office,8039.71,APJ,2026-10-13,2026-09-01,2026-09-30,,,Kestrelmoor Consulting invoice,INV-00401
+2026-10-15,65200,Office Supplies,V1009,Brambleway Office Supply,Operations,Main Office,929.91,APJ,2026-10-15,2026-09-01,2026-09-30,,,Brambleway Office Supply invoice,INV-00311
+2026-10-18,62100,Facilities Services,V1034,Tidepool Recycling,Facilities,West Campus,1236.32,APJ,2026-10-18,,,,,Services - September 2026,INV-00347
+2026-10-18,61100,Software Subscriptions,V1043,Corvid Lane Data,Engineering,Remote,2311.02,APJ,2026-10-18,2026-09-01,2026-09-30,,,Corvid Lane Data invoice,INV-00365
+2026-10-18,60100,Professional Services,V1046,Hazelnook Staffing,Operations,West Campus,6558.40,APJ,2026-10-18,,,,,Monthly services,INV-00392
+2026-10-19,63300,Benefits Administration,V1020,Wrenfield Payroll Services,People,Main Office,4061.35,APJ,2026-10-19,2026-09-01,2026-09-30,,,Wrenfield Payroll Services invoice,INV-00329
+2026-10-19,60200,Consulting Fees,V1024,Kettlebrook Engineering,Engineering,West Campus,2471.97,APJ,2026-10-19,2026-09-01,2026-09-30,,,Kettlebrook Engineering invoice,INV-00410
+2026-10-20,65200,Office Supplies,V1044,Sablewing Couriers,Operations,West Campus,708.63,APJ,2026-10-20,2026-09-01,2026-09-30,,,Sablewing Couriers invoice,INV-00374
